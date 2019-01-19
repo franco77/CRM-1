@@ -1,0 +1,18 @@
+[18-Jan-2019 06:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in H:\wampserver\www\crm\Include\HeaderNotLoggedIn.php on line 33
+[18-Jan-2019 06:45:50 UTC] PHP Stack trace:
+[18-Jan-2019 06:45:50 UTC] PHP   1. {main}() H:\wampserver\www\crm\setup\index.php:0
+[18-Jan-2019 06:45:50 UTC] PHP   2. Slim\App->run() H:\wampserver\www\crm\setup\index.php:27
+[18-Jan-2019 06:45:50 UTC] PHP   3. Slim\App->process() H:\wampserver\www\crm\vendor\slim\slim\Slim\App.php:296
+[18-Jan-2019 06:45:50 UTC] PHP   4. Slim\App->callMiddlewareStack() H:\wampserver\www\crm\vendor\slim\slim\Slim\App.php:388
+[18-Jan-2019 06:45:50 UTC] PHP   5. Slim\App->__invoke() H:\wampserver\www\crm\vendor\slim\slim\Slim\MiddlewareAwareTrait.php:117
+[18-Jan-2019 06:45:50 UTC] PHP   6. Slim\Route->run() H:\wampserver\www\crm\vendor\slim\slim\Slim\App.php:495
+[18-Jan-2019 06:45:50 UTC] PHP   7. Slim\Route->callMiddlewareStack() H:\wampserver\www\crm\vendor\slim\slim\Slim\Route.php:313
+[18-Jan-2019 06:45:50 UTC] PHP   8. Slim\Route->__invoke() H:\wampserver\www\crm\vendor\slim\slim\Slim\MiddlewareAwareTrait.php:117
+[18-Jan-2019 06:45:50 UTC] PHP   9. Slim\Handlers\Strategies\RequestResponse->__invoke() H:\wampserver\www\crm\vendor\slim\slim\Slim\Route.php:335
+[18-Jan-2019 06:45:50 UTC] PHP  10. call_user_func:{H:\wampserver\www\crm\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php:41}() H:\wampserver\www\crm\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php:41
+[18-Jan-2019 06:45:50 UTC] PHP  11. Slim\Container->{closure:H:\wampserver\www\crm\setup\routes\setup.php:8-12}() H:\wampserver\www\crm\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php:41
+[18-Jan-2019 06:45:50 UTC] PHP  12. Slim\Views\PhpRenderer->render() H:\wampserver\www\crm\setup\routes\setup.php:11
+[18-Jan-2019 06:45:50 UTC] PHP  13. Slim\Views\PhpRenderer->fetch() H:\wampserver\www\crm\vendor\slim\php-view\src\PhpRenderer.php:62
+[18-Jan-2019 06:45:50 UTC] PHP  14. Slim\Views\PhpRenderer->protectedIncludeScope() H:\wampserver\www\crm\vendor\slim\php-view\src\PhpRenderer.php:169
+[18-Jan-2019 06:45:50 UTC] PHP  15. include() H:\wampserver\www\crm\vendor\slim\php-view\src\PhpRenderer.php:188
+[18-Jan-2019 06:45:50 UTC] PHP  16. require() H:\wampserver\www\crm\setup\templates\setup-steps.php:8

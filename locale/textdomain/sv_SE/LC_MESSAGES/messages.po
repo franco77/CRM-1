@@ -1,0 +1,3633 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: ChurchCRM\n"
+"Language: sv\n"
+
+#: 
+msgid "Cannot execute query."
+msgstr "Kan inte utföra förfrågan"
+
+#: 
+msgid "Delete"
+msgstr "Radera"
+
+#: 
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: 
+msgid "Save"
+msgstr "Spara"
+
+#: 
+msgid "Unassigned"
+msgstr "otilldelade"
+
+#: 
+msgid "None"
+msgstr "Inga"
+
+#: 
+msgid "City"
+msgstr "Stad"
+
+#: 
+msgid "State"
+msgstr "Län"
+
+#: 
+msgid "Country"
+msgstr "Land"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Email"
+msgstr "Epost"
+
+#: 
+msgid "Credit Card"
+msgstr "Kreditkort"
+
+#: 
+msgid "Backup Database"
+msgstr "Säkerhetskopiera databasen"
+
+#: 
+msgid "You should make a manual backup at least once a week unless you already have a regular backup procedule for your systems."
+msgstr "Du borde säkerhetskopiera databasen minst en gång i veckan om du inte redan har en annan säkerhetskopieringssystem igång"
+
+#: 
+msgid "After you download the backup file, you should make two copies. Put one of them in a fire-proof safe on-site and the other in a safe location off-site."
+msgstr "Äfter nerladdningen av säkerhetskopian,  gör en till kopia. Spara en kopia i en brandsäkert kassaskåp på plats och en brandsäkert kassaskåp någonannanstans"
+
+#: 
+#, fuzzy
+msgid "Select archive type"
+msgstr "Välj arkivtyp"
+
+#: 
+msgid "Encrypt backup file with a password?"
+msgstr "Kryptera säkerhetskopian med ett lösenord"
+
+#: 
+#, fuzzy
+msgid "Re-type Password"
+msgstr "Bekräfta lösenordet"
+
+#: 
+msgid "Batch Winner Entry"
+msgstr "Batch Vinnare Entry"
+
+#: 
+#, fuzzy
+msgid "Winner"
+msgstr "Vinter"
+
+#: 
+#, fuzzy
+msgid "Price"
+msgstr "Län:"
+
+#: 
+msgid "Enter Winners"
+msgstr "Ange Vinnare"
+
+#: 
+msgid "CSV Export"
+msgstr "CSV Export"
+
+#: 
+#, fuzzy
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: 
+msgid "Required"
+msgstr "Obligatorisk "
+
+#: 
+#, fuzzy
+msgid "First Name"
+msgstr "Tilltalsnamn"
+
+#: 
+#, fuzzy
+msgid "Middle Name"
+msgstr "Andra förnamn"
+
+#: 
+#, fuzzy
+msgid "Zip"
+msgstr "Postkod"
+
+#: 
+#, fuzzy
+msgid "Envelope"
+msgstr "Kuvert"
+
+#: 
+#, fuzzy
+msgid "Work/Other Email"
+msgstr "Arbete/Övriga Epost"
+
+#: 
+#, fuzzy
+msgid "Membership Date"
+msgstr "Medemsdatumet"
+
+#: 
+#, fuzzy
+msgid "Birth / Anniversary Date"
+msgstr "födelse / Bröllopsdatumet"
+
+#: 
+#, fuzzy
+msgid "Age / Years Married"
+msgstr "Ålder / År gifte"
+
+#: 
+#, fuzzy
+msgid "Family Role"
+msgstr "Familj roll"
+
+#: 
+#, fuzzy
+msgid "Depends whether using person or family output method"
+msgstr "beror på om du använder person eller familj metod"
+
+#: 
+msgid "Custom Person Fields"
+msgstr "Fritt anpassade person fält"
+
+#: 
+msgid "Custom Family Fields"
+msgstr "Fritt anpassade familj fält"
+
+#: 
+msgid "Filters"
+msgstr "Filtrar"
+
+#: 
+#, fuzzy
+msgid "Records to export"
+msgstr "Poster att exportera"
+
+#: 
+msgid "Based on filters below.."
+msgstr "Baserat på filtrar nedan.."
+
+#: 
+msgid "People in Cart (filters ignored)"
+msgstr "Personer i korgen (filtrar förbigått)"
+
+#: 
+msgid "Use Ctrl Key to select multiple"
+msgstr "Använd Ctrl-tangenten för att välj fler än en"
+
+#: 
+msgid "Don't Filter"
+msgstr "Filtrera inte"
+
+#: 
+msgid "Male"
+msgstr "Man"
+
+#: 
+msgid "Female"
+msgstr "Kvinna"
+
+#: 
+#, fuzzy
+msgid "Group Membership"
+msgstr "Gruppmedlemskap"
+
+#: 
+msgid "From:"
+msgstr "Från:"
+
+#: 
+msgid "To:"
+msgstr "Till:"
+
+#: 
+#, fuzzy
+msgid "Birthday Date"
+msgstr "Födelsedatum"
+
+#: 
+#, fuzzy
+msgid "Anniversary Date"
+msgstr "Bröllopsdatum"
+
+#: 
+msgid "Output Method:"
+msgstr "Utmatningsmetod"
+
+#: 
+msgid "CSV Individual Records"
+msgstr "CSV enskilda poster"
+
+#: 
+msgid "CSV Combine Families"
+msgstr "CSV kombinera familjer"
+
+#: 
+msgid "Add Individuals to Cart"
+msgstr "Lägg personer till korgen"
+
+#: 
+msgid "Skip records with incomplete mail address"
+msgstr "Förbigå poster med okomplett post adress"
+
+#: 
+msgid "Create File"
+msgstr "Skapa fil"
+
+#: 
+msgid "No file selected for upload."
+msgstr "Inga fil valde för uppladdning."
+
+#: 
+msgid "Total number of rows in the CSV file:"
+msgstr "Antal rader i CSV fil:"
+
+#: 
+msgid "Ignore this Field"
+msgstr "Förbigå denna fält"
+
+#: 
+msgid "Title"
+msgstr "Titel"
+
+#: 
+msgid "Suffix"
+msgstr "Ändelse"
+
+#: 
+msgid "Gender"
+msgstr "Kön"
+
+#: 
+msgid "Donation Envelope"
+msgstr "Insamlingskuvert"
+
+#: 
+msgid "Home Phone"
+msgstr "Hemtelefon"
+
+#: 
+msgid "Work Phone"
+msgstr "Arbetstelefon"
+
+#: 
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
+#: 
+msgid "Work / Other Email"
+msgstr "Arbets- / Övriga epost"
+
+#: 
+msgid "Birth Date"
+msgstr "Födelsedatum"
+
+#: 
+msgid "Wedding Date"
+msgstr "Bröllopsdatum"
+
+#: 
+msgid "Ignore first CSV row (to exclude a header)"
+msgstr "Förbigå den första CSV rad (för att skippa headern)"
+
+#: 
+msgid "Make Family records based on last name and address"
+msgstr "Gör familj poster baserat på efternamn och adress"
+
+#: 
+msgid "Patriarch"
+msgstr "Patriark"
+
+#: 
+msgid "Matriarch"
+msgstr "Matriark"
+
+#: 
+msgid "Family Type: used with Make Family records... option above"
+msgstr "Familjtyp: använd med Gör famlij poster... val ovan"
+
+#: 
+msgid "NOTE: Separators (dashes, etc.) or lack thereof do not matter"
+msgstr "OBS: Avskiljare (strek, osv.) eller saknaden därav är betydelselös"
+
+#: 
+msgid "Default country if none specified otherwise"
+msgstr "Förinställd land om ingen annan angiven"
+
+#: 
+msgid "Classification"
+msgstr "Klassificering "
+
+#: 
+msgid "Perform Import"
+msgstr "Gör importeringen"
+
+#: 
+msgid "ERROR: the uploaded CSV file no longer exists!"
+msgstr "FEL: uppladdade CSV filen finns inte!"
+
+#: 
+msgid "Data Cleared Successfully!"
+msgstr "Informationen rensade!"
+
+#: 
+msgid "Upload CSV File"
+msgstr "Ladda upp CSV Fil"
+
+#: 
+msgid "Clear Persons and Families"
+msgstr "Rensa personer och familjer"
+
+#: 
+msgid "Warning!  Do not select this option if you plan to add to an existing database.<br/>"
+msgstr "Varning!  Välj inte detta om du ska lägga till en befintlig databas.<br/>"
+
+#: 
+msgid "Use only if unsatisfied with initial import.  All person and member data will be destroyed!"
+msgstr "Använd endast om du är missnöjd med den initialla importen.  Alla personer och medlemer infomration raderas!"
+
+#: 
+msgid "Data import successful."
+msgstr "Importering lyckades."
+
+#: 
+msgid "persons were imported"
+msgstr "personer importerade"
+
+#: 
+msgid "Canvass Automation"
+msgstr "Insamlingskampanj automation"
+
+#: 
+msgid "Not confirmed."
+msgstr "Icke bekräftade"
+
+#: 
+msgid "Canvassers"
+msgstr "Insamlingskampanj arbetare"
+
+#: 
+msgid "BraveCanvassers"
+msgstr "Modiga insamlingskampanj arbetare"
+
+#: 
+msgid "Cleared all canvasser assignments."
+msgstr "Renasade alla insamlingskampanj arbetsuppgifter"
+
+#: 
+msgid "Set Ok To Canvass for all families."
+msgstr "Ställa in godkände för insamlingskampanj för alla familjer"
+
+#: 
+msgid "Disabled Ok To Canvass for all families."
+msgstr "Ställa in icke godkände för insamlingskampanj för alla familjer"
+
+#: 
+msgid "ClearAllOkToCanvass button not confimed."
+msgstr "RensaAllaGodkändeFörInsamlingskampanj knappen ej bekräftade"
+
+#: 
+msgid "Set default fiscal year"
+msgstr "Förinställde bokföringsår"
+
+#: 
+msgid "Check to confirm"
+msgstr "Bocka av för att bekräfta"
+
+#: 
+msgid "Assign Canvassers"
+msgstr "Ange insamlingskampanj arbetare"
+
+#: 
+msgid "Assign To Non Pledging"
+msgstr "Ange som icke donator"
+
+#: 
+msgid "Clear Canvasser Assignments"
+msgstr "Rensa insamlingskampanj arbetsuppgifter"
+
+#: 
+msgid "Enable Canvass for All Families"
+msgstr "Tillåt insamlingskampanj för alla familjer"
+
+#: 
+msgid "Disable Canvass for All Families"
+msgstr "Tillåt inte insamlingskampanj för alla familjer"
+
+#: 
+msgid "Briefing Sheets"
+msgstr "Genomgångsblad"
+
+#: 
+msgid "Generate a PDF containing briefing sheets for all Families, sorted by canvasser."
+msgstr "Skapa en PDF fil som innehåller genomgångsblad för alla familjer, sorterat efter insamlingskampanj arbetare"
+
+#: 
+msgid "Progress Report"
+msgstr "Framstegsrapport"
+
+#: 
+msgid "Summary Report"
+msgstr "Sammandragsrapport"
+
+#: 
+msgid "Not Interested Report"
+msgstr "Ej intresserad rapport"
+
+#: 
+msgid " Canvass Input for the "
+msgstr " Insamlingskampanj inmatning för "
+
+#: 
+#, fuzzy
+msgid "Canvasser"
+msgstr "Insamlingskampanj arbetare"
+
+#: 
+msgid "Positive"
+msgstr "Positiv"
+
+#: 
+msgid "Critical"
+msgstr "Kritiskt"
+
+#: 
+msgid "Insightful"
+msgstr "Insiktsrikt"
+
+#: 
+msgid "Financial"
+msgstr "Finansiell"
+
+#: 
+msgid "Suggestions"
+msgstr "Förslag"
+
+#: 
+msgid "Not Interested"
+msgstr "Ej intresserad"
+
+#: 
+msgid "Why Not Interested?"
+msgstr "Varför ej intresserad"
+
+#: 
+msgid "Add Cart to Event"
+msgstr "Lägg korgen till evenemang"
+
+#: 
+#, fuzzy
+msgid "Select the event to which you would like to add your cart"
+msgstr "Välj evenemanget som du vill lägga korgen till"
+
+#: 
+msgid "OR"
+msgstr "ELLER"
+
+#: 
+msgid "Add New Event"
+msgstr "Lägg till ny evenemang"
+
+#: 
+msgid "Your cart is empty!"
+msgstr "Korgen är tom!"
+
+#: 
+msgid "No family name entered!"
+msgstr "Ingen familjnamn inmatad!"
+
+#: 
+msgid "Add Cart to Family"
+msgstr "Lägg korgen till familj"
+
+#: 
+msgid "Name"
+msgstr "Namn"
+
+#: 
+msgid "Assign Role"
+msgstr "Ange roll"
+
+#: 
+msgid "Already in a family"
+msgstr "Redan i en familj"
+
+#: 
+msgid "Create new family"
+msgstr "Skapa ny familj"
+
+#: 
+msgid "If adding a new family, enter data below."
+msgstr "Om du läggar till in en ny familj, ange informationen nedan."
+
+#: 
+#, fuzzy
+msgid "Use address/contact data from"
+msgstr "Använd adress/kontakt information från"
+
+#: 
+msgid "Only the new data below"
+msgstr "Endast ny information nedan"
+
+#: 
+msgid "(Use the textbox for countries other than US and Canada)"
+msgstr "(Använd textrutan för alla ländar förutom USA och Kanada)"
+
+#: 
+msgid "Do not auto-format"
+msgstr "Autoformatera inte"
+
+#: 
+msgid "Add to Family"
+msgstr "Lägg till familj"
+
+#: 
+msgid "Add Cart to Group"
+msgstr "Lägg korgen till grupp"
+
+#: 
+#, fuzzy
+msgid "Select the group to which you would like to add your cart"
+msgstr "Välj gruppen som du vill lägga till korgen"
+
+#: 
+#, fuzzy
+msgid "Select Group"
+msgstr "Välj grupp"
+
+#: 
+msgid "No Group Selected"
+msgstr "Inga grupp utvald"
+
+#: 
+msgid "Add to Group"
+msgstr "Lägg till grupp"
+
+#: 
+msgid "View Your Cart"
+msgstr "Visa korgen"
+
+#: 
+msgid "You have no items in your cart."
+msgstr "Korgen är tom."
+
+#: 
+msgid "Back to Menu"
+msgstr "Tillbaka till menyn"
+
+#: 
+msgid "Empty Cart"
+msgstr "Tom korgen"
+
+#: 
+msgid "Empty Cart to Group"
+msgstr "Tom korgen till grupp"
+
+#: 
+msgid "Empty Cart to Family"
+msgstr "Tom korgen till familj"
+
+#: 
+msgid "Empty Cart to Event"
+msgstr "Tom korgen till evenemang"
+
+#: 
+msgid "Map Cart"
+msgstr "Kartlägga korgen"
+
+#: 
+#, fuzzy
+msgid "Name Tags"
+msgstr "Namn"
+
+#: 
+msgid "Email Cart"
+msgstr "Epost korg"
+
+#: 
+msgid "Email (BCC)"
+msgstr "Epost (BCC)"
+
+#: 
+msgid "Create Directory From Cart"
+msgstr "Skapa katalog från korgen"
+
+#: 
+msgid "Generate Labels"
+msgstr "Skapa etikett"
+
+#: 
+msgid "Bulk Mail Presort"
+msgstr "Sortera post enl postkod"
+
+#: 
+msgid "Quiet Presort"
+msgstr "Tyst sortera"
+
+#: 
+msgid "Your cart contains"
+msgstr "Korgen innehåller"
+
+#: 
+msgid "persons from"
+msgstr "personer ifrån"
+
+#: 
+msgid "Remove"
+msgstr "Ta bort"
+
+#: 
+msgid "Yes"
+msgstr "Ja"
+
+#: 
+msgid "No"
+msgstr "Nej"
+
+#: 
+msgid "Event Checkin"
+msgstr "Evenemang inchekning"
+
+#: 
+#, fuzzy
+msgid "Select the event to which you would like to check people in for"
+msgstr "Välj evenemang som du vill checka in personer till"
+
+#: 
+msgid "Select Event"
+msgstr "Välj evenemang"
+
+#: 
+msgid "Add Visitor"
+msgstr "Lägg till besökare"
+
+#: 
+msgid "CheckIn"
+msgstr "Checkar in"
+
+#: 
+msgid "CheckOut"
+msgstr "Checkar ut"
+
+#: 
+msgid "Checked In Time"
+msgstr "Incheckningstid"
+
+#: 
+msgid "Checked In By"
+msgstr "Incheckade av:"
+
+#: 
+msgid "Checked Out Time"
+msgstr "Utcheckningstid"
+
+#: 
+msgid "Checked Out By"
+msgstr "Utcheckade av"
+
+#: 
+msgid "Action"
+msgstr "Handling"
+
+#: 
+msgid "No Attendees Assigned to Event"
+msgstr "Inga deltagare angiven till evenemang"
+
+#: 
+msgid "Member"
+msgstr "Medlem"
+
+#: 
+msgid " of the"
+msgstr " av "
+
+#: 
+msgid "(No assigned family)"
+msgstr "(Ingen angiven familj)"
+
+#: 
+msgid "Convert Individuals to Families"
+msgstr "Konvertera enskilda personer till familjer"
+
+#: 
+msgid "Convert Next"
+msgstr "Konvertera nästa"
+
+#: 
+msgid "Convert All"
+msgstr "Konvertera alla"
+
+#: 
+msgid "Deposit Slip Number: "
+msgstr "Insättningsblankett nummer:"
+
+#: 
+msgid "Close deposit slip (remember to press Save)"
+msgstr "Stäng insättningsblankett (kom ihåg att trycka på Spara)"
+
+#: 
+msgid "Deposit Slip Report"
+msgstr "Insättningsblankettrapport"
+
+#: 
+msgid "Important note: failed transactions will be deleted permanantly when the deposit slip is closed."
+msgstr "Viktig: misslyckade verifikationer raderas permanent när insättningsblankett stängas"
+
+#: 
+msgid "Payments on this deposit slip:"
+msgstr "Betalningar på detta insättningsblankett:"
+
+#: 
+msgid "Import eGive"
+msgstr "Importera eGive"
+
+#: 
+msgid "Add Payment"
+msgstr "Lägg till betalning"
+
+#: 
+msgid "Load Authorized Transactions"
+msgstr "Ladda in godkända verifikationer"
+
+#: 
+msgid "Run Transactions"
+msgstr "Köra verifikationer"
+
+#: 
+msgid "Directory reports"
+msgstr "Katalograpporter"
+
+#: 
+msgid "Select classifications to include"
+msgstr "Välj classificeringer att inkludera"
+
+#: 
+msgid "Which role is the head of household?"
+msgstr "Vilket roll är familjens huvudperson?"
+
+#: 
+msgid "Which role is the spouse?"
+msgstr "Vilket roll är makan"
+
+#: 
+msgid "Which role is a child?"
+msgstr "Vilket roll är ett barn?"
+
+#: 
+#, fuzzy
+msgid "Information to Include"
+msgstr "Informationen att inkludera"
+
+#: 
+msgid "Address"
+msgstr "Adress"
+
+#: 
+msgid "Birthday"
+msgstr "Födelsedatum"
+
+#: 
+msgid "Family Home Phone"
+msgstr "Familjens hem telefon"
+
+#: 
+msgid "Family Work Phone"
+msgstr "Familjens arbetstelefon"
+
+#: 
+msgid "Family Cell Phone"
+msgstr "Familjens mobiltelefon"
+
+#: 
+msgid "Family Email"
+msgstr "Familjens epost"
+
+#: 
+msgid "Personal Home Phone"
+msgstr "Personlig hem telefon"
+
+#: 
+msgid "Personal Work Phone"
+msgstr "Personlig arbetstelefon"
+
+#: 
+msgid "Personal Cell Phone"
+msgstr "Personlig mobiltelefon"
+
+#: 
+msgid "Personal Email"
+msgstr "Personlig epost"
+
+#: 
+msgid "Personal Work/Other Email"
+msgstr "Personlig arbets-/övriga epost"
+
+#: 
+msgid "Photos"
+msgstr "Foto"
+
+#: 
+#, fuzzy
+msgid "Number of Columns"
+msgstr "Antal kolumnar"
+
+#: 
+#, fuzzy
+msgid "Paper Size"
+msgstr "Papper storlek"
+
+#: 
+#, fuzzy
+msgid "Font Size"
+msgstr "Teckensnitt storlek"
+
+#: 
+#, fuzzy
+msgid "Title page"
+msgstr "Titel sida"
+
+#: 
+msgid "Use Title Page"
+msgstr "Använd titel sida"
+
+#: 
+msgid "Church Name"
+msgstr "Kyrkans namn"
+
+#: 
+msgid "Disclaimer"
+msgstr "Juridisk ansvar"
+
+#: 
+msgid "Create Directory"
+msgstr "Skapa katalog"
+
+#: 
+#, fuzzy
+msgid "Donated Item Editor"
+msgstr "Meny redigeringsverktyg"
+
+#: 
+msgid "Save and Add"
+msgstr "Spara och lägg till"
+
+#: 
+#, fuzzy
+msgid "Item"
+msgstr "sak"
+
+#: 
+#, fuzzy
+msgid "Multiple items"
+msgstr "Många produkter"
+
+#: 
+msgid "Sell to everyone"
+msgstr "Sälj till alla"
+
+#: 
+#, fuzzy
+msgid "Estimated Price"
+msgstr "Beräknad Pris"
+
+#: 
+msgid "Multiple"
+msgstr "Flera"
+
+#: 
+#, fuzzy
+msgid "Final Price"
+msgstr "Finans"
+
+#: 
+msgid "Go"
+msgstr "Gå"
+
+#: 
+msgid "Description"
+msgstr "Beskrivning"
+
+#: 
+msgid "Donation Fund Editor"
+msgstr "Insamlingsfond redigerare"
+
+#: 
+msgid "Are you sure you want to delete this fund?"
+msgstr "Är du säker på att du vill radera denna Insamlingsfond"
+
+#: 
+msgid "Warning: Field changes will be lost if you do not 'Save Changes' before using a delete or 'add new' button!"
+msgstr "Varning: Fält ändringar förbigås om du inte 'Spara ändringar' innan du radera eller 'Lägg till' knappen!"
+
+#: 
+msgid "Invalid fields or selections. Changes not saved! Please correct and try again!"
+msgstr "Ogiltig fält eller val.  Ändringar sparades inte! Rätta till och försöka igen!"
+
+#: 
+msgid "No funds have been added yet"
+msgstr "Inga insamlingsfonder skapat än"
+
+#: 
+msgid "Active"
+msgstr "Aktiv"
+
+#: 
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: 
+msgid "Add New Fund"
+msgstr "Lägg till ny fond"
+
+#: 
+msgid "Church Event Editor"
+msgstr "Kyrkans evenemang redigeringsverktyg"
+
+#: 
+msgid "Edit Event Types"
+msgstr "Redigera evenemangtyper"
+
+#: 
+msgid "Edit Event Type"
+msgstr "Redigera evenemangtyp"
+
+#: 
+msgid "Event Type"
+msgstr "Evenemangstyp"
+
+#: 
+msgid "Save Name"
+msgstr "Spara namn"
+
+#: 
+#, fuzzy
+msgid "Recurrence Pattern"
+msgstr "Återkommande mönster"
+
+#: 
+msgid "Attendance Counts"
+msgstr "Deltagande summor"
+
+#: 
+msgid "Family"
+msgstr "Familj"
+
+#: 
+msgid "Type"
+msgstr "Typ"
+
+#: 
+msgid "Fiscal Year"
+msgstr "Bokföringsår"
+
+#: 
+msgid "Amount"
+msgstr "Summa"
+
+#: 
+msgid "Fund"
+msgstr "Fond"
+
+#: 
+msgid "Bank"
+msgstr "Bank"
+
+#: 
+msgid "Month"
+msgstr "Månad"
+
+#: 
+msgid "Year"
+msgstr "År"
+
+#: 
+msgid "Edit"
+msgstr "Redigera"
+
+#: 
+#, fuzzy
+msgid "Message"
+msgstr "Meddelande"
+
+#: 
+msgid "Event Attendees"
+msgstr "Evenemangdeltagare"
+
+#: 
+msgid "Event Nonattendees"
+msgstr "Evenemang icke deltagare"
+
+#: 
+msgid "Event Guests"
+msgstr "Evenemanggäster"
+
+#: 
+msgid "Back to Report Menu"
+msgstr "Tillbaka till rapport meny"
+
+#: 
+msgid "There "
+msgstr "Där "
+
+#: 
+msgid "Event Title"
+msgstr "Evenemangsnamn"
+
+#: 
+msgid "Event Date"
+msgstr "Evenemangdatum"
+
+#: 
+msgid "Generate Report"
+msgstr "Skapa rapport"
+
+#: 
+msgid "Attending Members"
+msgstr "Deltagande medlemmar"
+
+#: 
+msgid "Non-Attending Members"
+msgstr "Icke deltagande medlemmar"
+
+#: 
+msgid "Guests"
+msgstr "Gäster"
+
+#: 
+msgid "There are no events in this category"
+msgstr "Finns inga evenemang i denn kategori"
+
+#: 
+msgid "There are no Records"
+msgstr "Finns inga poster"
+
+#: 
+msgid "Editing Event ID: "
+msgstr "Redigera Event ID:"
+
+#: 
+msgid " errors. Please see below"
+msgstr "fel. Se nedan"
+
+#: 
+#, fuzzy
+msgid "Items with a "
+msgstr "Poster i korgen"
+
+#: 
+#, fuzzy
+msgid " are required"
+msgstr "Denna inmatning krävs."
+
+#: 
+#, fuzzy
+msgid "Event Desc"
+msgstr "Evenemangsbeskr."
+
+#: 
+msgid "No Attendance counts recorded"
+msgstr "Inga deltagare angiven"
+
+#: 
+msgid "Attendance Notes: "
+msgstr "Deltagare anteckningar: "
+
+#: 
+#, fuzzy
+msgid "Event Sermon"
+msgstr "Evenemangspredikan"
+
+#: 
+#, fuzzy
+msgid "Event Status"
+msgstr "Evenemangsstatus"
+
+#: 
+msgid "EVENT TYPE NAME"
+msgstr "EVENEMANGTYP NAMN"
+
+#: 
+msgid "Sundays"
+msgstr "Söndagar"
+
+#: 
+msgid "Mondays"
+msgstr "Måndagar"
+
+#: 
+msgid "Tuesdays"
+msgstr "Tisdagar"
+
+#: 
+msgid "Wednesdays"
+msgstr "Onsdagar"
+
+#: 
+msgid "Thursdays"
+msgstr "Torsdagar"
+
+#: 
+msgid "Fridays"
+msgstr "Fredagar"
+
+#: 
+msgid "Saturdays"
+msgstr "Lördagar"
+
+#: 
+msgid "ATTENDANCE COUNTS"
+msgstr "DELTAGANDE SUMMOR"
+
+#: 
+msgid "Add Event Type"
+msgstr "Lägg till evenemang typ"
+
+#: 
+msgid "Custom Family Fields Editor"
+msgstr "Fritt anpassade familj fält redigeringsverktyg"
+
+#: 
+msgid "Default Option"
+msgstr "Standard val"
+
+#: 
+msgid "Warning:  By deleting this field, you will irrevokably lose all family data assigned for this field!"
+msgstr "Varning: Om du radera denna fält, förlorar du alla information i fältet!"
+
+#: 
+msgid "Warning: Arrow and delete buttons take effect immediately.  Field name changes will be lost if you do not 'Save Changes' before using an up, down, delete or 'add new' button!"
+msgstr "Varning: Pil och radera knapper fungerar omedelbart.  Fältnamn ändringar förloras om du inte 'Spara ändringar' innan du använder pilup, pilner, radera eller 'lägg till' knappen!"
+
+#: 
+msgid "No custom Family fields have been added yet"
+msgstr "Inga fritt anpassade familj fält tillagd än"
+
+#: 
+msgid "Special option"
+msgstr "Speciellval"
+
+#: 
+msgid "Security Option"
+msgstr "Säkerhetsval"
+
+#: 
+msgid "Family-View Side"
+msgstr "Familj-vy sida"
+
+#: 
+msgid "You must select a group."
+msgstr "Du måste välj en grupp"
+
+#: 
+msgid "Edit List Options"
+msgstr "Redigera 'lista' val"
+
+#: 
+msgid "Left"
+msgstr "Vänster"
+
+#: 
+msgid "Right"
+msgstr "Höger"
+
+#: 
+msgid "Help on types.."
+msgstr "Hjälp om typer.."
+
+#: 
+msgid "You must enter a name"
+msgstr "Du måste ange ett namn"
+
+#: 
+msgid "That field name already exists."
+msgstr "Denna fält namn finns redan."
+
+#: 
+#, fuzzy
+msgid "Side"
+msgstr "Sida:"
+
+#: 
+msgid "Add New Field"
+msgstr "Lägg till ny fält"
+
+#: 
+msgid "Family Editor"
+msgstr "Familj redigeringsverktyg"
+
+#: 
+msgid "First name must be entered"
+msgstr "Tilltalsnamn måste anges"
+
+#: 
+msgid "Invalid Year: allowable values are 1901 to 2155"
+msgstr "Ogiltig år: Måste vara mellan 1901 till 2155"
+
+#: 
+msgid "Invalid Birth Date."
+msgstr "Ogiltig födelsedatum."
+
+#: 
+msgid "Not a valid Wedding Date"
+msgstr "Ogiltig bröllopsdatum"
+
+#: 
+msgid "Email is Not Valid"
+msgstr "Epost är inte giltig"
+
+#: 
+#, fuzzy
+msgid "Ok To Canvass"
+msgstr "godkände för insamlingskampanjor"
+
+#: 
+#, fuzzy
+msgid "Assign a Canvasser"
+msgstr "Ange en insamlingskampanj arbetare"
+
+#: 
+#, fuzzy
+msgid "Assign a Brave Canvasser"
+msgstr "Ange en modig insamlingskampanj arbetare"
+
+#: 
+msgid "Custom Fields"
+msgstr "Fritt anpassade fält"
+
+#: 
+msgid "Family Members"
+msgstr "Familj medlemmar"
+
+#: 
+msgid "You may create family members now or add them later.  All entries will become <i>new</i> person records."
+msgstr "Du får skapa familj medlemmer nu eller lägg till de sedan.  Alla inmatningar blir <i>ny</i> person poster"
+
+#: 
+msgid "First"
+msgstr "Tilltalsnamn"
+
+#: 
+msgid "Middle"
+msgstr "Andra förnamn"
+
+#: 
+msgid "Last"
+msgstr "Efternamn"
+
+#: 
+msgid "Role"
+msgstr "Roll"
+
+#: 
+msgid "Day"
+msgstr "Dag"
+
+#: 
+msgid "Select Gender"
+msgstr "Välj kön"
+
+#: 
+msgid "Select Role"
+msgstr "Välj roll"
+
+#: 
+msgid "Unknown"
+msgstr "Okänd"
+
+#: 
+msgid "January"
+msgstr "Januari"
+
+#: 
+msgid "February"
+msgstr "Februari"
+
+#: 
+msgid "March"
+msgstr "Mars"
+
+#: 
+msgid "April"
+msgstr "April"
+
+#: 
+msgid "May"
+msgstr "Maj"
+
+#: 
+msgid "June"
+msgstr "Juni"
+
+#: 
+msgid "July"
+msgstr "Juli"
+
+#: 
+msgid "August"
+msgstr "Augusti"
+
+#: 
+msgid "September"
+msgstr "September"
+
+#: 
+msgid "October"
+msgstr "October"
+
+#: 
+msgid "November"
+msgstr "November"
+
+#: 
+msgid "December"
+msgstr "December"
+
+#: 
+msgid "Unk"
+msgstr "Okänd"
+
+#: 
+msgid "Latitude/Longitude"
+msgstr "Latitud/Longitud"
+
+#: 
+msgid "Envelope Number"
+msgstr "Kuvertnummer"
+
+#: 
+msgid "Previous Family"
+msgstr "Föregående familj"
+
+#: 
+msgid "Next Family"
+msgstr "Nästa familj"
+
+#: 
+msgid "Upload Photo"
+msgstr "Ladda in foto"
+
+#: 
+msgid "Delete Photo"
+msgstr "Radera foto"
+
+#: 
+msgid "Pledges and Payments"
+msgstr "Bidrag löfte och betalningar"
+
+#: 
+msgid "No property assignments."
+msgstr "Inga egenskaper angiven."
+
+#: 
+msgid "Value"
+msgstr "Värd"
+
+#: 
+msgid "Edit Value"
+msgstr "Redigera värd"
+
+#: 
+#, fuzzy
+msgid "Assign a New Property"
+msgstr "Ange en ny egenskap"
+
+#: 
+msgid "Assign"
+msgstr "Ange"
+
+#: 
+msgid "Date Updated"
+msgstr "Datumet updaterad"
+
+#: 
+msgid "Updated By"
+msgstr "Ändrades av"
+
+#: 
+msgid "Show Pledges"
+msgstr "Visa löften om betalningar"
+
+#: 
+msgid "Show Payments"
+msgstr "Visa betalningar"
+
+#: 
+msgid "Update"
+msgstr "Uppdatera"
+
+#: 
+msgid "Pledge or Payment"
+msgstr "Betalningar eller löften om betalningar"
+
+#: 
+msgid "Date"
+msgstr "Datum"
+
+#: 
+msgid "NonDeductible"
+msgstr "Ej avdragsgiltig"
+
+#: 
+msgid "Schedule"
+msgstr "Schema"
+
+#: 
+msgid "Method"
+msgstr "Metod"
+
+#: 
+msgid "Comment"
+msgstr "Kommentar"
+
+#: 
+msgid "Add a new pledge"
+msgstr "Lägg till en ny löfte om betalningar"
+
+#: 
+msgid "Add a new payment"
+msgstr "Lägg till en ny betalning"
+
+#: 
+msgid " Canvass Entry"
+msgstr " Insamlingskampanj inmatning"
+
+#: 
+msgid "Confirm Delete"
+msgstr "Bekräfta radera"
+
+#: 
+msgid "Financial Reports"
+msgstr "Financiellarapporter"
+
+#: 
+msgid "No records were returned from the previous report."
+msgstr "Inga poster finns från den föregående rapport."
+
+#: 
+msgid "Report Type:"
+msgstr "Rapporttyp:"
+
+#: 
+msgid "Select Report Type"
+msgstr "Välj rapporttyp"
+
+#: 
+msgid "Pledge Summary"
+msgstr "Löfte sammanfattning"
+
+#: 
+#, fuzzy
+msgid "Pledge Family Summary"
+msgstr "Löfte sammanfattning"
+
+#: 
+msgid "Pledge Reminders"
+msgstr "Löfte påminnelser"
+
+#: 
+msgid "Voting Members"
+msgstr "Röstberetigad medlemmar"
+
+#: 
+msgid "Giving Report (Tax Statements)"
+msgstr "Insamlingsrapport (skattedeklarationer)"
+
+#: 
+msgid "Zero Givers"
+msgstr "Noll Givers"
+
+#: 
+msgid "Individual Deposit Report"
+msgstr "Enskilda insättningsrapport"
+
+#: 
+msgid "Advanced Deposit Report"
+msgstr "Avancerad insättningsrapport"
+
+#: 
+msgid "Next"
+msgstr "Nästa"
+
+#: 
+#, fuzzy
+msgid "Filter by Family"
+msgstr "Filtrera enligt familj"
+
+#: 
+msgid "Report Start Date:"
+msgstr "Rapport startdatum:"
+
+#: 
+msgid "Report End Date:"
+msgstr "Rapport slutdatum"
+
+#: 
+msgid "Apply Report Dates To:"
+msgstr "Använda rapport datumen till:"
+
+#: 
+msgid "Deposit Date (Default)"
+msgstr "Insättningsdatum (Standard)"
+
+#: 
+msgid "Payment Date"
+msgstr "Betalningsdatum"
+
+#: 
+msgid "Filter by Deposit:"
+msgstr "Filtrera enligt insättning:"
+
+#: 
+msgid "If deposit is selected, date criteria will be ignored."
+msgstr "Om insättning väljas, datum kriterium förbigås"
+
+#: 
+msgid "All deposits within date range"
+msgstr "Alla insättningar inom datum omfång"
+
+#: 
+msgid "Filter by Payment Type:"
+msgstr "Filtrera enligt betalningstyp:"
+
+#: 
+msgid "All Methods"
+msgstr "Alla metoder"
+
+#: 
+msgid "Check"
+msgstr "Krysa"
+
+#: 
+msgid "Cash"
+msgstr "Kontant"
+
+#: 
+msgid "Bank Draft"
+msgstr "Bankcheck"
+
+#: 
+msgid "eGive"
+msgstr "eGive"
+
+#: 
+msgid "Minimun Total Amount:"
+msgstr "Minimala summa:"
+
+#: 
+msgid "0 - No Minimum"
+msgstr "0 - inga minimum"
+
+#: 
+msgid "Other Settings"
+msgstr "Övriga inställningar"
+
+#: 
+msgid "Include:"
+msgstr "Inkludera:"
+
+#: 
+msgid "Only Payments with Pledges"
+msgstr "Endast löft om betalningar"
+
+#: 
+msgid "All Payments"
+msgstr "Alla betalningar"
+
+#: 
+msgid "Generate:"
+msgstr "Skapa:"
+
+#: 
+msgid "Only Families with unpaid pledges"
+msgstr "Endast familjer med obetalda löften"
+
+#: 
+msgid "All Families"
+msgstr "Alla familjer"
+
+#: 
+msgid "Report Heading:"
+msgstr "Rapporthuvud:"
+
+#: 
+msgid "Graphic"
+msgstr "Grafisk"
+
+#: 
+msgid "Church Address"
+msgstr "Kyrkans adress"
+
+#: 
+msgid "Blank"
+msgstr "Tom"
+
+#: 
+msgid "Remittance Slip:"
+msgstr "Penningförsändelse kvitto:"
+
+#: 
+msgid "Sort Data by:"
+msgstr "Sortera enligt:"
+
+#: 
+msgid "Deposit"
+msgstr "Insättning"
+
+#: 
+msgid "All Data"
+msgstr "Alla poster"
+
+#: 
+msgid "Moderate Detail"
+msgstr "Måtlig detalj"
+
+#: 
+msgid "Summary Data"
+msgstr "Sammanfattning information"
+
+#: 
+msgid "CSV"
+msgstr "CSV"
+
+#: 
+msgid "Back"
+msgstr "Tillbaka"
+
+#: 
+msgid "Create Report"
+msgstr "Skapa rapport"
+
+#: 
+msgid "Deposit Listing"
+msgstr "Insättningslista"
+
+#: 
+#, fuzzy
+msgid "Fundraiser Listing"
+msgstr "Användare lista"
+
+#: 
+#, fuzzy
+msgid "Date Start"
+msgstr "Startdatum"
+
+#: 
+msgid "Apply Filters"
+msgstr "Använd filtrar"
+
+#: 
+#, fuzzy
+msgid "Date End"
+msgstr "Slutdatum"
+
+#: 
+msgid "Clear Filters"
+msgstr "Ta bort filtrar"
+
+#: 
+msgid "Previous Page"
+msgstr "Föregående sida"
+
+#: 
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: 
+msgid "Display:"
+msgstr "Visning:"
+
+#: 
+msgid "Number"
+msgstr "Nummer"
+
+#: 
+#, fuzzy
+msgid "Create New Fund Raiser"
+msgstr "Skapa ny familj"
+
+#: 
+msgid "Add Donated Item"
+msgstr "Lägg Donerade Punkt"
+
+#: 
+#, fuzzy
+msgid "Generate Catalog"
+msgstr "Skapa etikett"
+
+#: 
+#, fuzzy
+msgid "Generate Bid Sheets"
+msgstr "Skapa etikett"
+
+#: 
+#, fuzzy
+msgid "Generate Certificates"
+msgstr "Skapa rapport"
+
+#: 
+#, fuzzy
+msgid "Donated items for this fundraiser"
+msgstr "Donerade verk för denna insamling"
+
+#: 
+msgid "Donor"
+msgstr "Donator"
+
+#: 
+msgid "Buyer"
+msgstr "Köparen"
+
+#: 
+msgid "Sale Price"
+msgstr "Försäljningspris"
+
+#: 
+msgid "Material Value"
+msgstr "Materiellt värde"
+
+#: 
+#, fuzzy
+msgid "Minimum Price"
+msgstr "Maximal distans"
+
+#: 
+msgid "Family Geographic Utilities"
+msgstr "Familj geografisk verktyg"
+
+#: 
+msgid "Select Family:"
+msgstr "Välj familj:"
+
+#: 
+msgid "Maximum number of neighbors:"
+msgstr "Maximum antal grannar"
+
+#: 
+msgid "Maximum distance"
+msgstr "Maximal distans"
+
+#: 
+msgid "Data file format:"
+msgstr "Filformat:"
+
+#: 
+msgid "GPS Visualizer"
+msgstr "GPS Visning"
+
+#: 
+msgid "Street Atlas USA"
+msgstr "Gata karta av USA"
+
+#: 
+msgid "Include families in coordinate file:"
+msgstr "Inkludera familjer i koordinat fil:"
+
+#: 
+msgid "Neighbor Families"
+msgstr "Granfamiljer"
+
+#: 
+msgid "Make Data File"
+msgstr "Skapa informationsfil"
+
+#: 
+msgid "Show Neighbors"
+msgstr "Visa grannar"
+
+#: 
+msgid "Distance"
+msgstr "Distans"
+
+#: 
+msgid "Direction"
+msgstr "Hål"
+
+#: 
+msgid "Latitude"
+msgstr "Latitud"
+
+#: 
+msgid "Longitude"
+msgstr "Longitud"
+
+#: 
+msgid "Add to Cart"
+msgstr "Lägg till korgen"
+
+#: 
+msgid "Intersect with Cart"
+msgstr "Bearbeta med korgen"
+
+#: 
+msgid "Remove from Cart"
+msgstr "Radera från korgen"
+
+#: 
+msgid "Text for Event ID: "
+msgstr "Texter för evenemang ID:"
+
+#: 
+msgid "Group Editor"
+msgstr "Grupp redigeringsverktyg"
+
+#: 
+#, fuzzy
+msgid "Type of Group"
+msgstr "Grupptyp"
+
+#: 
+#, fuzzy
+msgid "Group Member Roles"
+msgstr "Grupp medlemmar roller"
+
+#: 
+#, fuzzy
+msgid "Clone roles"
+msgstr "Klona roller"
+
+#: 
+#, fuzzy
+msgid "from group"
+msgstr "från grupp"
+
+#: 
+msgid "Select a group"
+msgstr "Välj en grupp"
+
+#: 
+msgid "Edit Group-Specific Properties Form"
+msgstr "Redigera grupp specifik egenskapar formulär"
+
+#: 
+#, fuzzy
+msgid "Group Roles"
+msgstr "Grupp roller"
+
+#: 
+#, fuzzy
+msgid "New Role"
+msgstr "Ny roll"
+
+#: 
+msgid "Group Listing"
+msgstr "Grupp lista"
+
+#: 
+msgid "Submit"
+msgstr "Lämna in"
+
+#: 
+msgid "Group Member Properties Editor"
+msgstr "Grupp medlemmar egenskapar redigeringsverktyg"
+
+#: 
+msgid "This group currently has no properties!  You can add them in the Group Editor."
+msgstr "Denna grupp för närvarande har inga egenskapar! Du kan lägga till de i grupp redigeringsverktyget"
+
+#: 
+msgid "Return to Person Record"
+msgstr "Återgå till person post"
+
+#: 
+msgid "Editing"
+msgstr "Redigera"
+
+#: 
+msgid "data for member"
+msgstr "information för medlemmar"
+
+#: 
+msgid "Group-Specific Properties Form Editor:"
+msgstr "Grupp specifik egenskapar formulär redigeringsverktyg:"
+
+#: 
+msgid "No properties have been added yet"
+msgstr "Inga egenskapar tillägd än"
+
+#: 
+msgid "Warning: Field changes will be lost if you do not 'Save Changes' before using an up, down, delete, or 'add new' button!"
+msgstr "Varning:  Fält ändringar förloras om du inte 'spara ändringar' innan du använder pil up, ner, radera, eller 'lägg till' knappen!"
+
+#: 
+msgid "Show in"
+msgstr "Visa in"
+
+#: 
+msgid "Person View"
+msgstr "Person vy"
+
+#: 
+msgid "Group reports"
+msgstr "Grupp rapporter"
+
+#: 
+#, fuzzy
+msgid "Select the group you would like to report"
+msgstr "Välj gruppen att rapportera"
+
+#: 
+#, fuzzy
+msgid "Only cart persons?"
+msgstr "Endast korg personer?"
+
+#: 
+#, fuzzy
+msgid "Report Model"
+msgstr "Rapport model"
+
+#: 
+msgid "Report for group and role selected"
+msgstr "Rapport för grupp och roll vald"
+
+#: 
+msgid "Report for any role in group selected"
+msgstr "Rapport för alla roll i gruppen vald"
+
+#: 
+msgid "Select which information you want to include"
+msgstr "Välj vilken information du vill inkludera"
+
+#: 
+#, fuzzy
+msgid "Standard Info"
+msgstr "Standard Information"
+
+#: 
+msgid "Other Email"
+msgstr "Övriga epost"
+
+#: 
+msgid "GroupRole"
+msgstr "GruppRoll"
+
+#: 
+#, fuzzy
+msgid "Group-Specific Property Fields"
+msgstr "Grupp specifik egenskapar fält"
+
+#: 
+msgid "Undefined"
+msgstr "Odefinerat"
+
+#: 
+msgid "Group View"
+msgstr "Grupp vy"
+
+#: 
+msgid "Edit this Group"
+msgstr "Redigera denna grupp"
+
+#: 
+msgid "Delete this Group"
+msgstr "Radera denna grupp"
+
+#: 
+#, fuzzy
+msgid "Please confirm deletion of this group record"
+msgstr "Godkänna att radera denna grupp post"
+
+#: 
+msgid "This will also delete all Roles and Group-Specific Property data associated with this Group record."
+msgstr "Detta ska också radera all roller och grupp specifik egenskapar tillhörande denna grupp post."
+
+#: 
+msgid "Add Group Members to Cart"
+msgstr "Lägg grupp medlemmar till korgen"
+
+#: 
+msgid "Map this group"
+msgstr "Kartlägga denna grupp"
+
+#: 
+msgid "Email Group"
+msgstr "Epost grupp"
+
+#: 
+#, fuzzy
+msgid "Total Members"
+msgstr "Antal medlemmar"
+
+#: 
+#, fuzzy
+msgid "Default Role"
+msgstr "Standard roll"
+
+#: 
+#, fuzzy
+msgid "Group-Specific Properties"
+msgstr "Grupp specifik egenskapar"
+
+#: 
+msgid "Disabled for this group."
+msgstr "oaktiverad för denna grupp"
+
+#: 
+#, fuzzy
+msgid "Assigned Properties"
+msgstr "Angiven egenskaper"
+
+#: 
+msgid "Group Members:"
+msgstr "Grupp medlemmar"
+
+#: 
+msgid "Letters and Mailing Labels"
+msgstr "Brev och post etikett"
+
+#: 
+msgid "Newsletter labels"
+msgstr "Nyhetsbrev etikett"
+
+#: 
+msgid "Confirm data letter"
+msgstr "Bekräfta informations-brev"
+
+#: 
+msgid "Confirm data labels"
+msgstr "Bekräfta informations etikett"
+
+#: 
+msgid "Listing All Church Events"
+msgstr "Lista över alla evenamang"
+
+#: 
+msgid "Select Event Types To Display"
+msgstr "Välj evenamang typer att visa"
+
+#: 
+msgid "Display Events in Year"
+msgstr "Visa evenamang i år"
+
+#: 
+msgid "Start Date/Time"
+msgstr "Start datum/tid"
+
+#: 
+msgid "No Attendance Recorded"
+msgstr "Inga deltagande angiven"
+
+#: 
+#, fuzzy
+msgid "Attendees"
+msgstr "Deltagare("
+
+#: 
+msgid " Monthly Averages"
+msgstr " Månadsgenomsnitt"
+
+#: 
+msgid "Invalid login or password"
+msgstr "Ogiltig användernamn eller lösenord"
+
+#: 
+msgid "Too many failed logins: your account has been locked.  Please contact an administrator."
+msgstr "För många felaktiga inloggningar:  ditt konto är låst.  Kontaka administratören."
+
+#: 
+msgid "Please Login"
+msgstr "Var snäll och logga in"
+
+#: 
+msgid "Password"
+msgstr "Lösenord"
+
+#: 
+msgid "Login"
+msgstr "logga in"
+
+#: 
+msgid "Envelope Manager"
+msgstr "Kuvert skötare"
+
+#: 
+#, fuzzy
+msgid "Update Family Records"
+msgstr "Lägg till en ny familj post"
+
+#: 
+#, fuzzy
+msgid "Confirm"
+msgstr "Bekräfta radera"
+
+#: 
+#, fuzzy
+msgid "Sort by"
+msgstr "Sortera enligt:"
+
+#: 
+#, fuzzy
+msgid "Zero"
+msgstr "Person"
+
+#: 
+#, fuzzy
+msgid "Assign starting at #"
+msgstr "Tilldelning:"
+
+#: 
+msgid "Member Role Change"
+msgstr "Medelmmar roll ändring"
+
+#: 
+#, fuzzy
+msgid "Member's Name"
+msgstr "Medlemmarsnamn"
+
+#: 
+#, fuzzy
+msgid "Current Role"
+msgstr "För närvarande roll"
+
+#: 
+msgid "Update All Family Coordinates"
+msgstr "Uppdatera alla familj koordinat"
+
+#: 
+msgid "Families"
+msgstr "Familjer"
+
+#: 
+msgid "People"
+msgstr "Personer"
+
+#: 
+msgid "Reports on groups and roles"
+msgstr "Rapporter om grupper och roller"
+
+#: 
+msgid "Report on group and roles selected (it may be a multi-page PDF)."
+msgstr "Rapport om grupp och roller vald (kanske blir det en mångsidig PDF dokument)"
+
+#: 
+msgid "Generate letters and mailing labels."
+msgstr "Skapa brev och post etikett."
+
+#: 
+msgid "US Address Verification Report"
+msgstr "US adress konfirmation rapport"
+
+#: 
+msgid "Family Name"
+msgstr "Familj namn"
+
+#: 
+msgid "Note Delete Confirmation"
+msgstr "Bekräfta radera anteckningen"
+
+#: 
+#, fuzzy
+msgid "Please confirm deletion of this note"
+msgstr "Var snäll och bekräfta radera anteckningen"
+
+#: 
+msgid "Yes, delete this record"
+msgstr "Ja, radera denna post"
+
+#: 
+msgid "(this action cannot be undone)"
+msgstr "(Detta kan inte bli ogjort)"
+
+#: 
+msgid "Note Editor"
+msgstr "Anteckning redigeringsverktyg"
+
+#: 
+msgid "Private"
+msgstr "Privat"
+
+#: 
+msgid "Person"
+msgstr "Person"
+
+#: 
+msgid "Group"
+msgstr "Grupp"
+
+#: 
+msgid "Option"
+msgstr "Valmöjligheter"
+
+#: 
+msgid "Warning: Removing will reset all assignments for all persons with the assignment!"
+msgstr "Varning: Att radera detta ställar om alla arbetsuppgifter för alla personer med dennaarbetsuppgift!"
+
+#: 
+msgid "Error: Duplicate"
+msgstr "Fel: Inte unik"
+
+#: 
+msgid "Default"
+msgstr "Standard"
+
+#: 
+msgid "Duplicate name found."
+msgstr "Namnet inte unik"
+
+#: 
+msgid "Make Default"
+msgstr "Skapa standard"
+
+#: 
+msgid "Exit"
+msgstr "Avsluta"
+
+#: 
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: 
+msgid "Error: A "
+msgstr "Fel: A"
+
+#: 
+msgid " by that name already exists."
+msgstr " med denna namn finns redan."
+
+#: 
+#, fuzzy
+msgid "Buyer Number Editor"
+msgstr "Användare redigeringsverktyg"
+
+#: 
+#, fuzzy
+msgid "Generate Statement"
+msgstr "Skapa rapport"
+
+#: 
+msgid "Buyers for this fundraiser:"
+msgstr "Köpare till denna insamling:"
+
+#: 
+#, fuzzy
+msgid "Select all"
+msgstr "Välj roll"
+
+#: 
+#, fuzzy
+msgid "Select none"
+msgstr "Välj roll"
+
+#: 
+#, fuzzy
+msgid "Add Buyer"
+msgstr "Lägg till ny"
+
+#: 
+msgid "Generate Statements for Selected"
+msgstr "Generera rapporter för valda"
+
+#: 
+#, fuzzy
+msgid "Select"
+msgstr "Välj roll"
+
+#: 
+msgid "Custom Person Fields Editor"
+msgstr "Fritt anpassade person fält redigeringsverktyg"
+
+#: 
+msgid "Warning:  By deleting this field, you will irrevokably lose all person data assigned for this field!"
+msgstr "Varning: Att radera detta fält raderar alla person information angivenför denna fält!"
+
+#: 
+msgid "No custom person fields have been added yet"
+msgstr "Inga fritt anpassade person fält tillägd än"
+
+#: 
+msgid "Person-View Side"
+msgstr "Person vy side"
+
+#: 
+msgid "Person Editor"
+msgstr "Person redigeringsverktyg"
+
+#: 
+msgid "You must enter a Last Name if no Family is selected."
+msgstr "Du måste ange efternamnet om inte en familj är vald. "
+
+#: 
+msgid "Not a valid Friend Date"
+msgstr "Ogiltig vän datum"
+
+#: 
+msgid "Not a valid Membership Date"
+msgstr "Ogiltig medelmdatum"
+
+#: 
+msgid "Work Email is Not Valid"
+msgstr "Ogiltig arbets-epost"
+
+#: 
+msgid "Red text"
+msgstr "Röda texter"
+
+#: 
+msgid "indicates items inherited from the associated family record."
+msgstr "Visar saker ärvda från motsvarande familj post."
+
+#: 
+#, fuzzy
+msgid "Birth Year"
+msgstr "Födelseår"
+
+#: 
+msgid "Hide Age"
+msgstr "Gömma åldern"
+
+#: 
+msgid "Create a new family (using last name)"
+msgstr "Skapa en ny famlij (använd efternamn)"
+
+#: 
+#, fuzzy
+msgid "Friend Date"
+msgstr "Vän datum"
+
+#: 
+msgid "Add Person to Group"
+msgstr "Lägg till personen till gruppen"
+
+#: 
+#, fuzzy
+msgid "Select the group to add this person to"
+msgstr "Välj gruppen att lägga personen till"
+
+#: 
+msgid "Not assigned"
+msgstr "Inte tilldelad"
+
+#: 
+msgid "Printable Page"
+msgstr "Utskriftbar sida"
+
+#: 
+msgid "Edit \"Why Came\" Notes"
+msgstr "Redigera \"Varför kom\" anteckningar"
+
+#: 
+msgid "Delete this Record"
+msgstr "Radera denna post"
+
+#: 
+msgid "Make User"
+msgstr "Skapa användare"
+
+#: 
+msgid "Edit User"
+msgstr "Redigera användare"
+
+#: 
+msgid "No group assignments."
+msgstr "Inga grupp tilldelningar"
+
+#: 
+msgid "No volunteer opportunity assignments."
+msgstr "Inga frivilliga tilldelningar"
+
+#: 
+#, fuzzy
+msgid "Assign a New Volunteer Opportunity"
+msgstr "Tilldela en ny frivillig möjlighet"
+
+#: 
+msgid "Electronic Transaction Details"
+msgstr "Elektronisk överföring detaljer"
+
+#: 
+msgid "NonDeductible amount can't be greater than total amount."
+msgstr "Ej avdragsgiltig summa kan inte vara störer än slutsumman"
+
+#: 
+msgid "At least one fund must have a non-zero amount."
+msgstr "Minst en fond måste ha en icke-noll värde."
+
+#: 
+msgid "Must specify non-zero check number"
+msgstr "Du måste ange noll kontroll nummer"
+
+#: 
+msgid "Check number not valid for 'CASH' payment"
+msgstr "Kontrollera numret inte giltigt för \"kontant\" betalning"
+
+#: 
+msgid "Pledge Editor"
+msgstr "Bidrag löfte redigeringsverktyg"
+
+#: 
+msgid "Payment Editor: "
+msgstr "Betalning redigeringsverktyg:"
+
+#: 
+msgid " Deposit Slip #"
+msgstr " Insättningsblankett nummer"
+
+#: 
+#, fuzzy
+msgid " more entries will fit."
+msgstr " flera checkar har plats."
+
+#: 
+msgid "Payment Editor - Modify Existing Payment"
+msgstr "Betalning redigeringsverktyg - Ändra befintlig betalning"
+
+#: 
+msgid "Payment Editor - New Deposit Slip Will Be Created"
+msgstr "Betalning redigeringsverktyg - Ny insättningsblankett skapas"
+
+#: 
+#, fuzzy
+msgid "Find family->"
+msgstr " familj"
+
+#: 
+#, fuzzy
+msgid "Payment Schedule"
+msgstr "Betalningsschema:"
+
+#: 
+msgid "Select Schedule"
+msgstr "Välj schema"
+
+#: 
+msgid "Weekly"
+msgstr "Veckovis"
+
+#: 
+msgid "Monthly"
+msgstr "Månadsvis"
+
+#: 
+msgid "Quarterly"
+msgstr "Kvartalsvis"
+
+#: 
+msgid "Once"
+msgstr "En gång"
+
+#: 
+msgid "Other"
+msgstr "Annat"
+
+#: 
+#, fuzzy
+msgid "Payment by"
+msgstr "Betalningsdatum"
+
+#: 
+msgid "Scan check"
+msgstr "Skanna check"
+
+#: 
+msgid "find family from check account #"
+msgstr "hitta familjen från checkräkning #"
+
+#: 
+#, fuzzy
+msgid "Set default check account number for family"
+msgstr "Ställa in standard check för familj"
+
+#: 
+#, fuzzy
+msgid "Fund Name"
+msgstr "Banknamn"
+
+#: 
+#, fuzzy
+msgid "Non-deductible amount"
+msgstr "Ej avdragsgiltig"
+
+#: 
+msgid "Printable View"
+msgstr "Utskriftsbar vy"
+
+#: 
+msgid "Age"
+msgstr "Ålder"
+
+#: 
+#, fuzzy
+msgid "Assigned Groups"
+msgstr "Tilldelad grupper"
+
+#: 
+msgid "Group Name"
+msgstr "Grupp namn"
+
+#: 
+msgid "Notes:"
+msgstr "Anteckningar:"
+
+#: 
+msgid "Entered:"
+msgstr "Angiven:"
+
+#: 
+msgid "by"
+msgstr "av"
+
+#: 
+msgid "Property successfully assigned."
+msgstr "Egenskap tilldelning lyckades."
+
+#: 
+msgid " Property Assignment"
+msgstr " Egenskap tilldelning"
+
+#: 
+#, fuzzy
+msgid "Assigning"
+msgstr "Tilldelning"
+
+#: 
+msgid "Property Delete Confirmation"
+msgstr "Bekräfta radera egenskap"
+
+#: 
+#, fuzzy
+msgid "Please confirm deletion of this property"
+msgstr "Var snäll och bekräfta att du vill radera denna egenskap"
+
+#: 
+msgid "Deleting this Property will also delete all assignments of this Property to any People, Family, or Group records."
+msgstr "Varning: Att radera denna egenskap raderar alla tilldelningar till denna egenskap avpersoner, familjer och grupper"
+
+#: 
+msgid "No, cancel this deletion"
+msgstr "Nej, radera inte"
+
+#: 
+msgid "Property Editor"
+msgstr "Egenskap redigeringsverktyg"
+
+#: 
+#, fuzzy
+msgid "You must select a type"
+msgstr "Du måste välj en typ"
+
+#: 
+msgid "Select Property Type"
+msgstr "Välj egenskapstyp"
+
+#: 
+msgid "A"
+msgstr "A"
+
+#: 
+msgid "Entering a Prompt value will allow the association of a free-form value."
+msgstr "Att mata in en framkallning värd tillåter tilldelning av en fritt anpassade värd."
+
+#: 
+msgid "Property List"
+msgstr "Egenskap lista"
+
+#: 
+msgid "Add a New"
+msgstr "Lägg till en ny"
+
+#: 
+msgid "Property"
+msgstr "Egenskap"
+
+#: 
+msgid "Prompt"
+msgstr "Framkalla"
+
+#: 
+msgid "Property Type Delete Confirmation"
+msgstr "Bekräfta radera egenskapstyp"
+
+#: 
+msgid "Warning"
+msgstr "Varning"
+
+#: 
+msgid "This property type is still being used by at least one property."
+msgstr "Denna egenskapstyp"
+
+#: 
+msgid "If you delete this type, you will also remove all properties using"
+msgstr "Om du radera denna typ kommer du att ocksp radera alla egenskaper som använder denna typ"
+
+#: 
+msgid "it and lose any corresponding property assignments."
+msgstr "och den fölorar alla egenskap tilldelningar."
+
+#: 
+#, fuzzy
+msgid "Please confirm deletion of this Property Type"
+msgstr "Var snäll och bekräfta att du vill radera egenskapstypen"
+
+#: 
+msgid "Property Type Editor"
+msgstr "Egenskapstyp redigeringsverktyg"
+
+#: 
+msgid "Property Type List"
+msgstr "Egenskapstyp lista"
+
+#: 
+msgid "Add a New Property Type"
+msgstr "Lägg till en ny egenskapstyp"
+
+#: 
+msgid "Class"
+msgstr "Klass"
+
+#: 
+msgid "Properties"
+msgstr "Egenskapar"
+
+#: 
+msgid " Property Unassignment"
+msgstr " Egenskap tilldelning bortagning"
+
+#: 
+msgid "Please confirm removal of this property from this"
+msgstr "Var snäll och bekräfta att du vill ta bort denna egenskap från denna"
+
+#: 
+#, fuzzy
+msgid "Unassigning"
+msgstr "Tilldelning bortagning"
+
+#: 
+msgid "Yes, unassign this Property"
+msgstr "Ja, ta bort tilldelning av denna egenskap"
+
+#: 
+msgid "No, retain this assignment"
+msgstr "Nej, behålla denna tilldelning"
+
+#: 
+msgid "Query Listing"
+msgstr "Förfrågan lista"
+
+#: 
+msgid "Run a Free-Text Query"
+msgstr "Gör en fritext förfrågan"
+
+#: 
+msgid "Free-Text Query"
+msgstr "Fritext förfrågan"
+
+#: 
+msgid "Export Results to CSV file"
+msgstr "Exportera resultatet till en CSV fil"
+
+#: 
+msgid "Execute SQL"
+msgstr "Gör SQL förfrågan"
+
+#: 
+msgid "An error occured: "
+msgstr "Ett fel inträffade"
+
+#: 
+msgid " record(s) returned"
+msgstr " post(er) hittade"
+
+#: 
+msgid "Add Results To Cart"
+msgstr "Lägg till resultat till korgen"
+
+#: 
+msgid "Intersect Results With Cart"
+msgstr "Koppla resultat till korgen"
+
+#: 
+msgid "Remove Results From Cart"
+msgstr "Ta bort resultat från korgen"
+
+#: 
+msgid "Return to Query Menu"
+msgstr "Återgå till förfrågan meny"
+
+#: 
+msgid "Query View"
+msgstr "Förfrågan vy"
+
+#: 
+msgid "This value is required."
+msgstr "Denna inmatning krävs."
+
+#: 
+msgid "This value must be numeric."
+msgstr "Denna inmatning måste vara numerisk."
+
+#: 
+msgid "This value must be at least "
+msgstr "Denna inmatning måste vara minst "
+
+#: 
+msgid "This value cannot be more than "
+msgstr "Denna inmatning får inte vara mer än "
+
+#: 
+msgid " characters long"
+msgstr " tecken lång"
+
+#: 
+msgid "This value cannot be less than "
+msgstr "Denna inmatning får inte vara mindra än "
+
+#: 
+msgid "Run Query Again"
+msgstr "Kör förfrågan igen"
+
+#: 
+msgid "Execute Query"
+msgstr "Gör förfrågan"
+
+#: 
+msgid "Address Info:"
+msgstr "Adress info:"
+
+#: 
+msgid "Please register your copy of ChurchCRM by checking over this information and pressing the Send button.  "
+msgstr "Var snäll och anmälla din kopia av ChurchCRM igenom att kolla denna information och trycka på Skicka knappen.  "
+
+#: 
+msgid "This information is used only to track the usage of this software.  "
+msgstr "Denna information används endast för att övervaka hur många använda denna mjukvara.  "
+
+#: 
+msgid "Send"
+msgstr "Skicka"
+
+#: 
+msgid "Pledge Reminder Report"
+msgstr "Bidrag löfte påminnelse rapport"
+
+#: 
+msgid "All donations from this family have been moved to another family."
+msgstr "Alla bidrag från denna familj flytades till en annan familj"
+
+#: 
+msgid "Family Delete Confirmation"
+msgstr "Bekräfta radera familj"
+
+#: 
+#, fuzzy
+msgid "Please confirm deletion of"
+msgstr "Bekräfta att du vill ratera"
+
+#: 
+msgid "Sorry, there are records of donations from this family. This family may not be deleted."
+msgstr "Det finns poster av bidrag från denna familj.  Därför får man inte raderafamiljen."
+
+#: 
+msgid "Return to Family View"
+msgstr "Återgå till familj vy"
+
+#: 
+msgid "WARNING: This family has records of donations and may NOT be deleted until these donations are associated with another family."
+msgstr "VARNING:  Det finns poster av bidrag från denna familj och familjen får inte raderas fören dessa bidrag tilldelas en annan familj."
+
+#: 
+msgid "Please select another family with whom to associate these donations:"
+msgstr "Välj en annan familj att tilldela denna bidrag till:"
+
+#: 
+msgid "WARNING: This action can not be undone and may have legal implications!"
+msgstr "VARNING:  Denna får inte bli ogjort och kan ha juridiska följder!"
+
+#: 
+msgid "CURRENT FAMILY WITH DONATIONS"
+msgstr "FÖR NÄRVARANDE FAMILJ MED BIDRAG TILL KYRKAN"
+
+#: 
+msgid "Please confirm deletion of this family record:"
+msgstr "Bekräfta att du vill radera denna familj post:"
+
+#: 
+msgid "Note: This will also delete all Notes associated with this Family record."
+msgstr "OBS: Detta ska också radera alla anteckningar med denna familj post."
+
+#: 
+msgid "Delete Family Record ONLY"
+msgstr "Radera familj post ONLY"
+
+#: 
+msgid "Delete Family Record AND Family Members"
+msgstr "Radera familj post och familj medlemmar"
+
+#: 
+msgid "Person Listing"
+msgstr "Person lista"
+
+#: 
+msgid "Group Assignment Helper"
+msgstr "Grupp tilldelnings-verktyg"
+
+#: 
+msgid "Show people <b>not</b> in this group type:"
+msgstr "Visa personer <b>inte</b> i denna grupptyp:"
+
+#: 
+#, fuzzy
+msgid "Sort order"
+msgstr "Sorterings ordning"
+
+#: 
+msgid "By Name"
+msgstr "Enligt namn"
+
+#: 
+msgid "By Family"
+msgstr "Enligt familj"
+
+#: 
+msgid "By Newest Entries"
+msgstr "Enligt senaste inmatningar"
+
+#: 
+msgid "By Recently Edited"
+msgstr "Enligt senaste ändrade"
+
+#: 
+msgid "Apply Filter"
+msgstr "Använd filtrering"
+
+#: 
+msgid "Male & Female"
+msgstr "Man och kvinna"
+
+#: 
+msgid "All Classifications"
+msgstr "Alla klassificeringer"
+
+#: 
+msgid "All Family Roles"
+msgstr "Alla familj roller"
+
+#: 
+msgid "All Contact Properties"
+msgstr "Alla kontakt egenskaper"
+
+#: 
+msgid "All Group Types"
+msgstr "Alla grupptyper"
+
+#: 
+msgid "All Groups"
+msgstr "Alla grupper"
+
+#: 
+msgid "All Roles"
+msgstr "Alla roller"
+
+#: 
+msgid "View All"
+msgstr "Se alla"
+
+#: 
+msgid "Cart"
+msgstr "Korg"
+
+#: 
+msgid "My User Settings"
+msgstr "Mina användare inställningar"
+
+#: 
+msgid "Variable name"
+msgstr "Variabel namn"
+
+#: 
+#, fuzzy
+msgid "Current Value"
+msgstr "För närvarande roll:"
+
+#: 
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: 
+msgid "Default User Settings"
+msgstr "Standard användare inställningar"
+
+#: 
+msgid "Set Permission True to give new users the ability to change their current value.<BR>"
+msgstr "Ställ Tillstånd Trogen ge nya användare möjlighet att ändra sin nuvarande värde. <BR>"
+
+#: 
+#, fuzzy
+msgid "Permission"
+msgstr "Person"
+
+#: 
+msgid "Tax Report"
+msgstr "Skattrapport"
+
+#: 
+#, fuzzy
+msgid "Calendar Year"
+msgstr "Kalender år"
+
+#: 
+msgid "US Address Verification"
+msgstr "Bekräfta USA adress"
+
+#: 
+msgid "User Delete Confirmation"
+msgstr "Bekräfta radera användare"
+
+#: 
+msgid "Please confirm removal of user status from:"
+msgstr "Bekräfta att du vill radera användare status från:"
+
+#: 
+msgid "User Editor"
+msgstr "Användare redigeringsverktyg"
+
+#: 
+msgid "Note: Changes will not take effect until next logon."
+msgstr "OBS: Ändringar syns efter din nästa inloggning."
+
+#: 
+#, fuzzy
+msgid "Person to Make User"
+msgstr "Person att bli användare"
+
+#: 
+#, fuzzy
+msgid "User"
+msgstr "Användare"
+
+#: 
+#, fuzzy
+msgid "Login Name"
+msgstr "Inloggningsnamn"
+
+#: 
+#, fuzzy
+msgid "Add Records"
+msgstr "Lägg till poster"
+
+#: 
+#, fuzzy
+msgid "Edit Records"
+msgstr "Redigera poster"
+
+#: 
+#, fuzzy
+msgid "Delete Records"
+msgstr "Radera poster"
+
+#: 
+#, fuzzy
+msgid "Manage Properties and Classifications"
+msgstr "Underhålla egenskaper och klassificeringer"
+
+#: 
+#, fuzzy
+msgid "Manage Groups and Roles"
+msgstr "Hantera grupper och roller"
+
+#: 
+#, fuzzy
+msgid "Manage Donations and Finance"
+msgstr "Underhålla bidragsgivare och financer"
+
+#: 
+#, fuzzy
+msgid "View, Add and Edit Notes"
+msgstr "Se, lätt till och redigera anteckningar"
+
+#: 
+#, fuzzy
+msgid "Edit Self"
+msgstr "Redigera dig själv"
+
+#: 
+msgid "(Edit own family only.)"
+msgstr "(Redigera din egen familj endast.)"
+
+#: 
+msgid "(Canvass volunteer.)"
+msgstr "(Insamlingskampanj frivilliga)"
+
+#: 
+msgid "(Grants all privileges.)"
+msgstr "(Tilldela alla privilegier.)"
+
+#: 
+#, fuzzy
+msgid "Style"
+msgstr "Styl"
+
+#: 
+msgid "User Listing"
+msgstr "Användare lista"
+
+#: 
+msgid "Last Login"
+msgstr "Sista inloggning"
+
+#: 
+msgid "Total Logins"
+msgstr "Antal inloggningar"
+
+#: 
+msgid "Failed Logins"
+msgstr "Misslyckade inloggningar"
+
+#: 
+msgid "You must enter a password in both boxes"
+msgstr "Du måste ange ett lösenord i båda textrutor"
+
+#: 
+msgid "You must enter the same password in both boxes"
+msgstr "Du måste ange detsamma lösenord i båda textrutor"
+
+#: 
+msgid "Invalid password"
+msgstr "Ogiltig lösenord"
+
+#: 
+msgid "You must enter your new password in both boxes"
+msgstr "Du måste ange ditt nya lösenord i båda textrutor"
+
+#: 
+msgid "Your password choice is too obvious. Please choose something else."
+msgstr "Ditt lösenord val är för enkelt.  Använd något annat."
+
+#: 
+msgid "Your new password must be at least"
+msgstr "Ditt lösenord måste vara minst"
+
+#: 
+msgid "characters"
+msgstr "tecken"
+
+#: 
+msgid "You need to actually change your password (nice try, though!)"
+msgstr "Du måste faktist ändra ditt lösenord (Fast det var ett bra försök!)"
+
+#: 
+msgid "Your new password is too similar to your old one.  Be more creative!"
+msgstr "Ditt lösenord är för lik det gamla lösenordet.  Bli mer uppfinningsrikt!"
+
+#: 
+msgid "User Password Change"
+msgstr "Ändra användarens-lösenord"
+
+#: 
+msgid "Your account record indicates that you need to change your password before proceding."
+msgstr "Ditt konto krävs att du ändra lösenordet innan du får fortsätta."
+
+#: 
+msgid "Enter your current password, then your new password twice.  Passwords must be at least"
+msgstr "Ange din nuvarande lösenord, sedan ange det nya lösenordet två gånger.  Lösenord måste vara minst"
+
+#: 
+msgid "characters in length."
+msgstr "tecken lång"
+
+#: 
+msgid "Enter a new password for this user."
+msgstr "Ange ett nytt lösenord för denna användare."
+
+#: 
+#, fuzzy
+msgid "Old Password"
+msgstr "Det gamla lösenordet"
+
+#: 
+#, fuzzy
+msgid "New Password"
+msgstr "Det nya lösenordet"
+
+#: 
+#, fuzzy
+msgid "Confirm New Password"
+msgstr "Bekräfta det nya lösenordet"
+
+#: 
+#, fuzzy
+msgid "Please confirm the password reset of this user"
+msgstr "Bekräfta omställningen av lösenordet för denna användare"
+
+#: 
+#, fuzzy
+msgid "Volunteer Opportunity Delete Confirmation"
+msgstr "Frivilliga möjligheter redigeringsverktyg"
+
+#: 
+#, fuzzy
+msgid "There are people assigned to this Volunteer Opportunity."
+msgstr "Tilldela en ny frivillig möjlighet:"
+
+#: 
+msgid "Volunteer Opportunity will be unassigned for the following people."
+msgstr "Volontär Möjlighet kommer att lediga för följande personer."
+
+#: 
+#, fuzzy
+msgid "Yes, delete this Volunteer Opportunity"
+msgstr "Tilldela en ny frivillig möjlighet:"
+
+#: 
+msgid "Volunteer Opportunity Editor"
+msgstr "Frivilliga möjligheter redigeringsverktyg"
+
+#: 
+msgid "No volunteer opportunities have been added yet"
+msgstr "Inga frivilliga möjligheter tillagd än"
+
+#: 
+msgid "NOTE: ADD, Delete, and Ordering changes are immediate.  Changes to Name or Desc fields must be saved by pressing 'Save Changes'"
+msgstr "OBS: lägga till, radera och Beställning förändringar är omedelbara. Förändringar Namn eller DESC fält måste sparas genom att trycka på \"Spara ändringar\""
+
+#: 
+msgid "Add New Opportunity"
+msgstr "Lägg till ny möjlighet"
+
+#: 
+msgid "\"Why Came\" notes for "
+msgstr "\"Varför kom\" anteckningar för "
+
+#: 
+msgid "Why did you come to the church?"
+msgstr "Varför kom du till kyrkan?"
+
+#: 
+msgid "Why do you keep coming?"
+msgstr "Varför fortsätter du att komma?"
+
+#: 
+msgid "Do you have any suggestions for us?"
+msgstr "Har du några förslag för oss?"
+
+#: 
+msgid "How did you learn of the church?"
+msgstr "Hur fick du reda på kyrkan?"
+
+#: 
+msgid "Re-import to selected family"
+msgstr "Återimport till utvalda familjen"
+
+#: 
+#, fuzzy
+msgid "Data import results: "
+msgstr "Importering lyckades."
+
+#: 
+#, fuzzy
+msgid " gifts were imported, "
+msgstr "personer importerade"
+
+#: 
+msgid " gifts unchanged, and "
+msgstr "gåvor oförändrade, och"
+
+#: 
+msgid " gifts not imported due to problems"
+msgstr "gåvor inte importerats på grund av problem"
+
+#: 
+#, fuzzy
+msgid "Back to Deposit Slip"
+msgstr "Redigera insättningblankett"
+
+#: 
+msgid "Fatal error in eGive API datastream: '"
+msgstr "Allvarligt fel i eGive API dataström: \""
+
+#: 
+msgid "No families need canvassers assigned"
+msgstr "Inga familjer behöver insamlingskampanj arbetare tilldelad"
+
+#: 
+msgid "Canvassers assigned at random to %d families."
+msgstr "Insamlingskampanj arbetare tilldelad slumpmässigt till %d familjer"
+
+#: 
+msgid "Canvassers assigned at random to %d non-pledging families."
+msgstr "Insamlingskampanj arbetare tilldelad slumpmässigt till %d familjer som inte ger löfte om bidrag."
+
+#: 
+msgid "Assigned envelope numbers to all families with at least one member."
+msgstr "Tilldelad kuvertnummer till alla familjer med minst en medlem"
+
+#: 
+msgid "Assigned envelope numbers to all families."
+msgstr "Tilldelad kuvertnummer till alla familjer."
+
+#: 
+msgid "True / False"
+msgstr "Sann / Falskt"
+
+#: 
+msgid "Text Field (50 char)"
+msgstr "Textfält (50 tecken)"
+
+#: 
+msgid "Text Field (100 char)"
+msgstr "Textfält (100 tecken)"
+
+#: 
+msgid "Text Field (long)"
+msgstr "Textfält (long)"
+
+#: 
+msgid "Season"
+msgstr "Säsong"
+
+#: 
+msgid "Person from Group"
+msgstr "Person från grupp"
+
+#: 
+msgid "Money"
+msgstr "Pengar"
+
+#: 
+msgid "Phone Number"
+msgstr "telefonnummer"
+
+#: 
+msgid "Custom Drop-Down List"
+msgstr "Fritt anpassade 'drop down' lista"
+
+#: 
+msgid "Group successfully added to the Cart."
+msgstr "Grupp lades till korgen."
+
+#: 
+msgid "Group successfully removed from the Cart."
+msgstr "Grupp bortagen från korgen."
+
+#: 
+msgid "Selected record successfully removed from the Cart."
+msgstr "Vald post bortagen från korgen."
+
+#: 
+#, fuzzy
+msgid "Your cart has been successfully emptied"
+msgstr "Korgen tömdes"
+
+#: 
+msgid "item(s) added to the Cart."
+msgstr "poster lades till korgen"
+
+#: 
+msgid "Select Fiscal Year"
+msgstr "Välj bokföringsår"
+
+#: 
+msgid "pm"
+msgstr "eftermiddag"
+
+#: 
+msgid "am"
+msgstr "förmiddag"
+
+#: 
+msgid "Invalid Editor ID!"
+msgstr "Ogiltig redigerings ID"
+
+#: 
+msgid "Select Season"
+msgstr "Välj säsong"
+
+#: 
+msgid "Winter"
+msgstr "Vinter"
+
+#: 
+msgid "Spring"
+msgstr "Vår"
+
+#: 
+msgid "Summer"
+msgstr "Sommer"
+
+#: 
+msgid "Fall"
+msgstr "Höst"
+
+#: 
+msgid "Error: Invalid Editor ID!"
+msgstr "Fel: Ogiltig redigerings ID"
+
+#: 
+msgid "Not a valid date"
+msgstr "Ogiltig datum"
+
+#: 
+msgid "Invalid Year"
+msgstr "Ogiltig år"
+
+#: 
+msgid "Out of range: Allowable values are 1901 to 2155"
+msgstr "Utanför omfång: Tillåten värden är 1901 till 2155"
+
+#: 
+msgid "Invalid Number"
+msgstr "Ogiltig nummer"
+
+#: 
+msgid "Number too large. Must be between -2147483648 and 2147483647"
+msgstr "Nummer för stor.  Måste vara mellan -2147483648 och 2147483647"
+
+#: 
+msgid "Money amount too large. Maximum is $999999999.99"
+msgstr "Pengar summa för stor.  Maximalla är 999999999.99"
+
+#: 
+msgid " Bold Italic"
+msgstr " Fet kursiv"
+
+#: 
+msgid " Italic"
+msgstr " Kursiv"
+
+#: 
+msgid " Bold"
+msgstr " Fet"
+
+#: 
+#, fuzzy
+msgid "Font"
+msgstr "Teckensnitt"
+
+#: 
+#, fuzzy
+msgid "Label Type"
+msgstr "Beteckningstyp"
+
+#: 
+msgid "Label Grouping"
+msgstr "Beteckningsgruppering"
+
+#: 
+msgid "All Individuals"
+msgstr "Alla personer"
+
+#: 
+msgid "Grouped by Family"
+msgstr "Grupperat enligt familj"
+
+#: 
+#, fuzzy
+msgid "To the parents of"
+msgstr "Till föräldrarna av"
+
+#: 
+#, fuzzy
+msgid "Start Row"
+msgstr "Startrad"
+
+#: 
+#, fuzzy
+msgid "Start Column"
+msgstr "Startkolumn"
+
+#: 
+#, fuzzy
+msgid "Ignore Incomplete<br>Addresses"
+msgstr "Förbigå okomplett<br>Adresser"
+
+#: 
+#, fuzzy
+msgid "File Type"
+msgstr "Filtyp"
+
+#: 
+msgid "items"
+msgstr "saker"
+
+#: 
+msgid "Did not pledge"
+msgstr "Har inte gett bidragslöfte"
+
+#: 
+msgid "Top pledger"
+msgstr "Toppen på att ge bidragslöfte"
+
+#: 
+msgid "Pledged"
+msgstr "Gav bidragslöfte"
+
+#: 
+msgid "M/F"
+msgstr "M/K"
+
+#: 
+msgid "Liaison"
+msgstr "Förknippat med"
+
+#: 
+msgid "City, State, Zip"
+msgstr "Stad, län, postkod"
+
+#: 
+msgid "Send Newsletter"
+msgstr "Skicka nyhetsbrev"
+
+#: 
+msgid "Member Name"
+msgstr "Medelmmar namn"
+
+#: 
+msgid "Adult/Child"
+msgstr "Vuxen/barn"
+
+#: 
+#, fuzzy
+msgid "Cell Phone"
+msgstr "Mobiltelefon"
+
+#: 
+msgid "Member/Friend"
+msgstr "Medlemmar/vän"
+
+#: 
+msgid "This option requires at least version 3.22 of MySQL!  Hit browser back button to return to ChurchCRM."
+msgstr "Denna val krävs att minst version 3.22 av MySql! Slå på din webbrowsers tillbaka knapp för att återgå till ChurchCRM."
+
+#: 
+msgid "Work"
+msgstr "Arbeta"
+
+#: 
+msgid "Cell"
+msgstr "Tilldelning"
+
+#: 
+#, fuzzy
+msgid "Estimated value "
+msgstr "Redigera värd"
+
+#: 
+msgid "Donated by "
+msgstr "Donerats av"
+
+#: 
+#, fuzzy
+msgid "Paddle"
+msgstr "Andra förnamn"
+
+#: 
+msgid "Bid"
+msgstr "Bud"
+
+#: 
+msgid "Minimum bid "
+msgstr "Minsta bud"
+
+#: 
+msgid "All Funds"
+msgstr "Alla fonder"
+
+#: 
+msgid " for all funds"
+msgstr " för alla fonder"
+
+#: 
+msgid " for fund "
+msgstr " för fond "
+
+#: 
+msgid "for funds "
+msgstr "för fonder "
+
+#: 
+msgid "Donated Items:"
+msgstr "Donerade Artiklar:"
+
+#: 
+msgid "Purchased Items:"
+msgstr "Köpta artiklar:"
+
+#: 
+msgid "Total of all purchases: $"
+msgstr "Summan av alla inköp: $"
+
+#: 
+msgid "Total purchases: $"
+msgstr "Totala inköp: $"
+
+#: 
+msgid "Amount paid: ________________"
+msgstr "Belopp som betalas: ________________"
+
+#: 
+msgid "Paid by (  ) Cash    (  ) Check    (  ) Credit card __ __ __ __    __ __ __ __    __ __ __ __    __ __ __ __  Exp __ / __"
+msgstr "Betalas av () Cash () Check () Kreditkort ________________________________ Exp __ / __"
+
+#: 
+msgid "                                        Signature ________________________________________________________________"
+msgstr "Signatur ________________________________________________________________"
+
+#: 
+msgid "Totals"
+msgstr "Antal"
+
+#: 
+msgid "Certificate of Ownership"
+msgstr "Intyg om ägande"
+
+#: 
+msgid "Directory"
+msgstr "Katalog"
+
+#: 
+msgid "Page"
+msgstr "Sida"
+
+#: 
+msgid "Wedding"
+msgstr "Bröllop"
+
+#: 
+msgid "and"
+msgstr "och"
+
+#: 
+msgid "Group Directory"
+msgstr "Grupp katalog"
+
+#: 
+msgid "Please detach this slip and mail with your next gift."
+msgstr "Var snäll och koppla bort denna formulär och skicka den med dit nästa bidrag."
+
+#: 
+msgid "Please mail you next gift to "
+msgstr "Var snäll och posta din nästa bidrag till "
+
+#: 
+msgid "Gift Amount:"
+msgstr "Bidragssumma"
+
+#: 
+msgid "Gift Designation:"
+msgstr "Bidrag till:"
+
+#: 
+msgid "Sunday School Reports"
+msgstr "Söndagskola rapporter"
+
+#: 
+msgid "Generate class lists and attendance sheets"
+msgstr "Skapa klasslista och deltagande formulär"
+
+#: 
+#, fuzzy
+msgid "At least one group must be selected to make class lists or attendance sheets."
+msgstr "Skapa klasslista och deltagande formulär"
+
+#: 
+#, fuzzy
+msgid "To select multiple hold CTL"
+msgstr "För att välj många håll ner CTL"
+
+#: 
+#, fuzzy
+msgid "First Sunday"
+msgstr "Första söndag"
+
+#: 
+#, fuzzy
+msgid "Last Sunday"
+msgstr "Sista söndag"
+
+#: 
+#, fuzzy
+msgid "No Sunday School"
+msgstr "Inga söndagskola"
+
+#: 
+#, fuzzy
+msgid "Extra Students"
+msgstr "Ytterligare studenter"
+
+#: 
+#, fuzzy
+msgid "Extra Teachers"
+msgstr "Ytterligare lärare"
+
+#: 
+msgid "Create Class List"
+msgstr "Skapa klasslista"
+
+#: 
+msgid "Create Attendance Sheet"
+msgstr "Skapa deltagande formulär"
+

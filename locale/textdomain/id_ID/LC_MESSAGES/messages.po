@@ -1,0 +1,1928 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: ChurchCRM\n"
+"Language: id\n"
+
+#: 
+msgid "Cannot execute query."
+msgstr "Tidak bisa jalankan kueri."
+
+#: 
+msgid "Delete"
+msgstr "Hapus"
+
+#: 
+msgid "Cancel"
+msgstr "Batal"
+
+#: 
+msgid "Save"
+msgstr "Simpan"
+
+#: 
+msgid "Unassigned"
+msgstr "Belum Ditetapkan"
+
+#: 
+msgid "None"
+msgstr "Tidak ada"
+
+#: 
+msgid "City"
+msgstr "Kota"
+
+#: 
+msgid "State"
+msgstr "Provinsi"
+
+#: 
+msgid "Country"
+msgstr "Negara"
+
+#: 
+msgid "Phone"
+msgstr "Telepon"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Credit Card"
+msgstr "Kartu Kredit"
+
+#: 
+msgid "Backup Database"
+msgstr "Backup Database"
+
+#: 
+msgid "This tool will assist you in manually backing up the ChurchCRM database."
+msgstr "Fungsi ini akan menolongmu dalam backup manual database ChurchCRM."
+
+#: 
+msgid "You should make a manual backup at least once a week unless you already have a regular backup procedule for your systems."
+msgstr "Anda harus buat backup manual setidaknya seminggu sekali kecuali jika Anda sudah memiliki prosedur backup reguler."
+
+#: 
+msgid "After you download the backup file, you should make two copies. Put one of them in a fire-proof safe on-site and the other in a safe location off-site."
+msgstr "Setelah unduh file backup, buatlah dua salinan. Letakkan salah satunya ke dalam lokasi yang sangat aman dan yang satu lagi di tempat aman diluar itu."
+
+#: 
+msgid "If you are concerned about confidentiality of data stored in the ChurchCRM database, you should encrypt the backup data if it will be stored somewhere potentially accessible to others"
+msgstr "Jika peduli dengan kerahasiaan data dalam database ChurchCRM, Anda harus enkripsi data backup-nya jika hendak disimpan di tempat yang berpotensi diakses orang lain."
+
+#: 
+msgid "Select archive type"
+msgstr "Pilih Jenis Arsip"
+
+#: 
+msgid "Encrypt backup file with a password?"
+msgstr "Enkripsi file backup dengan kata sandi?"
+
+#: 
+msgid "Re-type Password"
+msgstr "Ketik Ulang Kata Sandi"
+
+#: 
+msgid "Generate and Ship Backup to External Storage"
+msgstr "Hasilkan dan Kirim ke Penyimpanan Eksternal"
+
+#: 
+msgid "Batch Winner Entry"
+msgstr "Masukkan Sekumpulan Pemenang"
+
+#: 
+msgid "Winner"
+msgstr "Pemenang"
+
+#: 
+msgid "Price"
+msgstr "Hadiah"
+
+#: 
+msgid "Enter Winners"
+msgstr "Masukkan para Pemenang"
+
+#: 
+msgid "CSV Export"
+msgstr "Ekspor CSV"
+
+#: 
+msgid "Field Selection"
+msgstr "Pilih Bidang"
+
+#: 
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+#: 
+msgid "Required"
+msgstr "Wajib"
+
+#: 
+msgid "First Name"
+msgstr "Nama Depan"
+
+#: 
+msgid "Middle Name"
+msgstr "Nama Tengah"
+
+#: 
+msgid "Zip"
+msgstr "Kode pos"
+
+#: 
+msgid "Envelope"
+msgstr "Amplop"
+
+#: 
+msgid "Work/Other Email"
+msgstr "Email Kerja/Lainnya"
+
+#: 
+msgid "Membership Date"
+msgstr "Tanggal Keanggotaan"
+
+#: 
+msgid "Birth / Anniversary Date"
+msgstr "Tanggal Lahir / Ulang Tahun"
+
+#: 
+msgid "Age / Years Married"
+msgstr "Umur / Tahun Menikah"
+
+#: 
+msgid "Family Role"
+msgstr "Peran Keluarga"
+
+#: 
+msgid "Depends whether using person or family output method"
+msgstr "Tergantung apakah menggunakan metode produksi pribadi atau keluarga"
+
+#: 
+msgid "Custom Field Selection"
+msgstr "Seleksi Area Kustom"
+
+#: 
+msgid "Custom Person Fields"
+msgstr "Area Pribadi Kustom"
+
+#: 
+msgid "Custom Family Fields"
+msgstr "Area Keluarga Kustom"
+
+#: 
+msgid "Filters"
+msgstr "Penyaring"
+
+#: 
+msgid "Records to export"
+msgstr "Record untuk diekspor"
+
+#: 
+msgid "Based on filters below.."
+msgstr "Berdasarkan filter di bawah .."
+
+#: 
+msgid "People in Cart (filters ignored)"
+msgstr "Orang dalam Keranjang (filter diabaikan)"
+
+#: 
+msgid "Use Ctrl Key to select multiple"
+msgstr "Gunakan tombol Ctrl untuk pilih banyak"
+
+#: 
+msgid "Don't Filter"
+msgstr "Jangan disaring"
+
+#: 
+msgid "Male"
+msgstr "Pria"
+
+#: 
+msgid "Female"
+msgstr "Wanita"
+
+#: 
+msgid "Group Membership"
+msgstr "Keanggotaan Kelompok"
+
+#: 
+msgid "From:"
+msgstr "Dari:"
+
+#: 
+msgid "To:"
+msgstr "Ke:"
+
+#: 
+msgid "Birthday Date"
+msgstr "Tanggal Lahir"
+
+#: 
+msgid "Anniversary Date"
+msgstr "Tanggal Jadian"
+
+#: 
+msgid "Output Method:"
+msgstr "Metode Hasil:"
+
+#: 
+msgid "CSV Individual Records"
+msgstr "Catatan Individu CSV"
+
+#: 
+msgid "CSV Combine Families"
+msgstr "CSV Gabungkan Keluarga"
+
+#: 
+msgid "Add Individuals to Cart"
+msgstr "Tambahkan Individu ke Keranjang."
+
+#: 
+msgid "Skip records with incomplete mail address"
+msgstr "Lewati record dengan alamat email yang tidak lengkap"
+
+#: 
+msgid "Create File"
+msgstr "Buat File"
+
+#: 
+msgid "No file selected for upload."
+msgstr "Tidak ada file yang dipilih untuk diunggah."
+
+#: 
+msgid "Total number of rows in the CSV file:"
+msgstr "Total Baris dalam File CSV:"
+
+#: 
+msgid "Ignore this Field"
+msgstr "Abaikan Area Ini"
+
+#: 
+msgid "Title"
+msgstr "Gelar"
+
+#: 
+msgid "Suffix"
+msgstr "Akhiran"
+
+#: 
+msgid "Gender"
+msgstr "Jenis Kelamin"
+
+#: 
+msgid "Donation Envelope"
+msgstr "Amplop Donasi"
+
+#: 
+msgid "Home Phone"
+msgstr "Telepon Rumah"
+
+#: 
+msgid "Work Phone"
+msgstr "Telepon Kantor"
+
+#: 
+msgid "Mobile Phone"
+msgstr "Telepon Selular"
+
+#: 
+msgid "Work / Other Email"
+msgstr "Email Kerja / Lainnya"
+
+#: 
+msgid "Birth Date"
+msgstr "Tanggal Lahir"
+
+#: 
+msgid "Wedding Date"
+msgstr "Tanggal Pernikahan"
+
+#: 
+msgid "Ignore first CSV row (to exclude a header)"
+msgstr "Abaikan baris ke-1 CSV (jaga header)"
+
+#: 
+msgid "Make Family records based on last name and address"
+msgstr "Buat Record Keluarga dengan nama belakang dan alamat"
+
+#: 
+msgid "Patriarch"
+msgstr "Kepala Keluarga"
+
+#: 
+msgid "Matriarch"
+msgstr "Ibu Kepala Keluarga"
+
+#: 
+msgid "Family Type: used with Make Family records... option above"
+msgstr "Tipe Keluarga: digunakan dengan Record Membut Keluarga ... pilihan di atas"
+
+#: 
+msgid "NOTE: Separators (dashes, etc.) or lack thereof do not matter"
+msgstr "CATATAN: Tanda pemisah (tanda hubung, dll.) atau kurang dari itu tidak masalah"
+
+#: 
+msgid "Default country if none specified otherwise"
+msgstr "Set Negara secara tomatis jika tidak ditentukan"
+
+#: 
+msgid "Classification"
+msgstr "Penggolongan"
+
+#: 
+msgid "Perform Import"
+msgstr "Lakukan Impor"
+
+#: 
+msgid "ERROR: the uploaded CSV file no longer exists!"
+msgstr "KESALAHAN: file CSV yang diunggah tidak ada lagi!"
+
+#: 
+msgid "Data Cleared Successfully!"
+msgstr "Data Berhasil Dibersihkan!"
+
+#: 
+msgid "Upload CSV File"
+msgstr "Unggah File CSV"
+
+#: 
+msgid "Clear Persons and Families"
+msgstr "Bersihkan Orang dan Keluarga"
+
+#: 
+msgid "Warning!  Do not select this option if you plan to add to an existing database.<br/>"
+msgstr "Perhatian ! Jangan memilih ini jika database sudah pernah ada"
+
+#: 
+msgid "Use only if unsatisfied with initial import.  All person and member data will be destroyed!"
+msgstr "Gunakan jika initial import kurang memuaskan. Semua data anggota akan dihapus"
+
+#: 
+msgid "Data import successful."
+msgstr "Impor data berhasil"
+
+#: 
+msgid "persons were imported"
+msgstr "Data telah diimpor"
+
+#: 
+msgid "Canvass Automation"
+msgstr "Sensus Otomatis"
+
+#: 
+msgid "Not confirmed."
+msgstr "Belum terkonfirmasi"
+
+#: 
+msgid "Canvassers"
+msgstr "Petugas Sensus"
+
+#: 
+msgid "Set default fiscal year"
+msgstr "Atur tahun fiskal"
+
+#: 
+msgid "Check to confirm"
+msgstr "Tandai sebagai konfirmasi"
+
+#: 
+msgid "Assign Canvassers"
+msgstr "Tetapkan Kanvasser"
+
+#: 
+msgid "Enable Canvass for All Families"
+msgstr "Aktifkan Palang untuk Semua Keluarga"
+
+#: 
+msgid "Disable Canvass for All Families"
+msgstr "Matikan Palang untuk Semua Keluarga"
+
+#: 
+msgid "Briefing Sheets"
+msgstr "lembar pengarahan"
+
+#: 
+msgid "Generate a PDF containing briefing sheets for all Families, sorted by canvasser."
+msgstr "Hasilkan PDF yang berisi lembar pengarahan untuk semua Keluarga, yang diurutkan berdasarkan pemilih."
+
+#: 
+msgid "Progress Report"
+msgstr "Laporan perkembangan"
+
+#: 
+msgid "Generate a PDF containing a progress report.  The progress report includes information on the overall progress of the canvass, and the progress of individual canvassers."
+msgstr "Hasilkan PDF berisi laporan kemajuan. Laporan kemajuan mencakup informasi tentang kemajuan keseluruhan dari sensus, dan kemajuan dari masing-masing pemilih."
+
+#: 
+msgid "Summary Report"
+msgstr "Rangkuman laporan"
+
+#: 
+msgid "Generate a PDF containing a summary report.  The summary report includes comments extracted from the canvass data."
+msgstr "Hasilkan PDF berisi laporan ringkasan. Laporan ringkasan termasuk komentar yang diambil dari data sensus."
+
+#: 
+msgid "Not Interested Report"
+msgstr "Laporan Tidak Tertarik"
+
+#: 
+msgid "Canvasser"
+msgstr "Peminta dukungan"
+
+#: 
+msgid "Positive"
+msgstr "Positif"
+
+#: 
+msgid "Critical"
+msgstr "Kritis"
+
+#: 
+msgid "Insightful"
+msgstr "Berwawasan"
+
+#: 
+msgid "Financial"
+msgstr "Finansial"
+
+#: 
+msgid "Suggestions"
+msgstr "Saran-saran"
+
+#: 
+msgid "Not Interested"
+msgstr "Tidak berminat"
+
+#: 
+msgid "Why Not Interested?"
+msgstr "Mengapa tidak berminat ?"
+
+#: 
+msgid "Add Cart to Event"
+msgstr "Tambahkan cart di Acara"
+
+#: 
+msgid "Select the event to which you would like to add your cart"
+msgstr "Pilih acara yang ingin ditambahkan cart"
+
+#: 
+msgid "OR"
+msgstr "Atau"
+
+#: 
+msgid "Add New Event"
+msgstr "Tambah Event Baru"
+
+#: 
+msgid "Your cart is empty!"
+msgstr "Cart kosong !"
+
+#: 
+msgid "No family name entered!"
+msgstr "Nama keluarga masih kosong"
+
+#: 
+msgid "Add Cart to Family"
+msgstr "Tambahkan Cart di Keluarga"
+
+#: 
+msgid "Name"
+msgstr "Nama"
+
+#: 
+msgid "Assign Role"
+msgstr "Tentukan peran"
+
+#: 
+msgid "Already in a family"
+msgstr "Terdaftar di keluarga lain"
+
+#: 
+msgid "Create new family"
+msgstr "Buat keluarga baru"
+
+#: 
+msgid "If adding a new family, enter data below."
+msgstr "Jika menambah keluarga baru, masukkan data di bawah ini"
+
+#: 
+msgid "Use address/contact data from"
+msgstr "Gunakan alamat/data kontak dari"
+
+#: 
+msgid "Only the new data below"
+msgstr "Hanya data baru di bawah ini"
+
+#: 
+msgid "(Use the textbox for countries other than US and Canada)"
+msgstr "(Gunakan textbox untuk negara selain US dan Canada"
+
+#: 
+msgid "Do not auto-format"
+msgstr "Jangan lakukan auto-format"
+
+#: 
+msgid "Add to Family"
+msgstr "Tambahkan ke Keluarga"
+
+#: 
+msgid "Add Cart to Group"
+msgstr "Tambahkan Cart di Group"
+
+#: 
+msgid "Select the group to which you would like to add your cart"
+msgstr "Pilih group yang akan ditambahkan cart"
+
+#: 
+msgid "Select Group"
+msgstr "Pilih Group"
+
+#: 
+msgid "No Group Selected"
+msgstr "Belum memilih Group"
+
+#: 
+msgid "Add to Group"
+msgstr "Tambahkan ke Group"
+
+#: 
+msgid "View Your Cart"
+msgstr "Tampilkan Cart"
+
+#: 
+msgid "You have no items in your cart."
+msgstr "Cart anda masih kosong"
+
+#: 
+msgid "Back to Menu"
+msgstr "Kembali ke Menu"
+
+#: 
+msgid "Empty Cart"
+msgstr "Kosongkan Cart"
+
+#: 
+msgid "Empty Cart to Group"
+msgstr "Kosongkan Cart di Group"
+
+#: 
+msgid "Empty Cart to Family"
+msgstr "Kosongkan Cart di Keluarga"
+
+#: 
+msgid "Empty Cart to Event"
+msgstr "Kosongkan Cart di Acara"
+
+#: 
+msgid "Map Cart"
+msgstr "Peta-kan Cart"
+
+#: 
+msgid "Name Tags"
+msgstr "Tag Nama"
+
+#: 
+msgid "Email Cart"
+msgstr "Cart Email"
+
+#: 
+msgid "Email (BCC)"
+msgstr "Email (BCC)"
+
+#: 
+msgid "Create Directory From Cart"
+msgstr "Buat Direktori dari Cart"
+
+#: 
+msgid "Generate Labels"
+msgstr "Buat label"
+
+#: 
+msgid "Your cart contains"
+msgstr "Daftar Pesanan"
+
+#: 
+msgid "persons from"
+msgstr "orang dari"
+
+#: 
+msgid "Remove"
+msgstr "Hapus"
+
+#: 
+msgid "Yes"
+msgstr "Ya"
+
+#: 
+msgid "No"
+msgstr "Tidak"
+
+#: 
+msgid "Developer Chat"
+msgstr "Kontak Pengembang"
+
+#: 
+msgid "Event Checkin"
+msgstr "Kehadiran di Acara"
+
+#: 
+msgid "Select the event to which you would like to check people in for"
+msgstr "Pilih Acara yang akan diisi daftar kehadirannya"
+
+#: 
+msgid "Select Event"
+msgstr "Pilih Acara"
+
+#: 
+msgid "Add Visitor"
+msgstr "Tambahkan pengunjung"
+
+#: 
+msgid "CheckIn"
+msgstr "Hadir"
+
+#: 
+msgid "CheckOut"
+msgstr "Pulang"
+
+#: 
+msgid "Checked In Time"
+msgstr "Jam Hadir"
+
+#: 
+msgid "Checked In By"
+msgstr "Diisi oleh "
+
+#: 
+msgid "Checked Out Time"
+msgstr "Jam Pulang "
+
+#: 
+msgid "Checked Out By"
+msgstr "Diisi oleh "
+
+#: 
+msgid "Action"
+msgstr "Aksi"
+
+#: 
+msgid "No Attendees Assigned to Event"
+msgstr "Tidak ada yang hadir pada acara"
+
+#: 
+msgid "Member"
+msgstr "Anggota"
+
+#: 
+msgid " of the"
+msgstr "dari"
+
+#: 
+msgid "(No assigned family)"
+msgstr "Belum ada data keluarga"
+
+#: 
+msgid "Convert Individuals to Families"
+msgstr "Konversi beberapa individu menjadi Keluarga"
+
+#: 
+msgid "Convert Next"
+msgstr "Konversi Berikutnya"
+
+#: 
+msgid "Convert All"
+msgstr "Konversi semuanya"
+
+#: 
+msgid "Deposit Slip Number: "
+msgstr "Nomor Slip Setoran"
+
+#: 
+msgid "Deposit Details: "
+msgstr "Rincian Setoran"
+
+#: 
+msgid "Close deposit slip (remember to press Save)"
+msgstr "Tutup slip setoran (jangan lupa klik \"Save\")"
+
+#: 
+msgid "Deposit Slip Report"
+msgstr "Laporan Slip Setoran"
+
+#: 
+msgid "Important note: failed transactions will be deleted permanantly when the deposit slip is closed."
+msgstr "Catatan penting : transaksi yang gagal akan terhapus permanen jika slip setoran di tutup"
+
+#: 
+msgid "Deposit Summary: "
+msgstr "Ringkasan Setoran : "
+
+#: 
+msgid "Payments on this deposit slip:"
+msgstr "Pembayaran pada slip setoran ini :"
+
+#: 
+msgid "Import eGive"
+msgstr "Impor eGive"
+
+#: 
+msgid "Add Payment"
+msgstr "Tambah Pembayaran"
+
+#: 
+msgid "Load Authorized Transactions"
+msgstr "Load transaksi yang sudah terotorisasi"
+
+#: 
+msgid "Run Transactions"
+msgstr "Jalankan transaksi"
+
+#: 
+msgid "Directory reports"
+msgstr "Laporan direktori"
+
+#: 
+msgid "Select classifications to include"
+msgstr "Pilih klasifikasi yang akan dimasukkan"
+
+#: 
+msgid "Which role is the head of household?"
+msgstr "Yang manakah kepala rumah tangga ?"
+
+#: 
+msgid "Which role is the spouse?"
+msgstr "Yang manakah pasangannya ?"
+
+#: 
+msgid "Which role is a child?"
+msgstr "Yang manakah merupakan anak ?"
+
+#: 
+msgid "Information to Include"
+msgstr "Informasi yang akan ditambahkan"
+
+#: 
+msgid "Address"
+msgstr "Alamat"
+
+#: 
+msgid "Birthday"
+msgstr "Ulang Tahun"
+
+#: 
+msgid "Family Home Phone"
+msgstr "Telepon Rumah "
+
+#: 
+msgid "Family Work Phone"
+msgstr "Telepon Kantor"
+
+#: 
+msgid "Family Cell Phone"
+msgstr "Handphone"
+
+#: 
+msgid "Family Email"
+msgstr "E-mail"
+
+#: 
+msgid "Personal Home Phone"
+msgstr "Telepon Pribadi"
+
+#: 
+msgid "Personal Work Phone"
+msgstr "Telepon kantor Pribadi"
+
+#: 
+msgid "Personal Cell Phone"
+msgstr "Handphone pribadi"
+
+#: 
+msgid "Personal Email"
+msgstr "E-mail pribadi"
+
+#: 
+msgid "Personal Work/Other Email"
+msgstr "Email lainnya"
+
+#: 
+msgid "Photos"
+msgstr "Foto"
+
+#: 
+msgid "Number of Columns"
+msgstr "Jumlah Kolom"
+
+#: 
+msgid "Paper Size"
+msgstr "Ukuran kertas"
+
+#: 
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: 
+msgid "Title page"
+msgstr "Halaman Judul"
+
+#: 
+msgid "Use Title Page"
+msgstr "Gunakan halaman judul"
+
+#: 
+msgid "Church Name"
+msgstr "Nama Gereja"
+
+#: 
+msgid "Disclaimer"
+msgstr "Penolakan"
+
+#: 
+msgid "Create Directory"
+msgstr "Buat direktori"
+
+#: 
+msgid "Donated Item Editor"
+msgstr "Pengedit rincian donasi"
+
+#: 
+msgid "Save and Add"
+msgstr "Simpan dan tambahkan"
+
+#: 
+msgid "Item"
+msgstr "Rincian"
+
+#: 
+msgid "Sell to everyone"
+msgstr "Jual kepada semua orang"
+
+#: 
+msgid "Estimated Price"
+msgstr "Estimasi Harga"
+
+#: 
+msgid "Multiple"
+msgstr "Kelipatan"
+
+#: 
+msgid "Final Price"
+msgstr "Harga Akhir"
+
+#: 
+msgid "Replicate item"
+msgstr "Bentuk ulang barang"
+
+#: 
+msgid "Go"
+msgstr "Teruskan"
+
+#: 
+msgid "Description"
+msgstr "Gambaran"
+
+#: 
+msgid "Picture URL"
+msgstr "URL dari Gambar"
+
+#: 
+msgid "Donation Fund Editor"
+msgstr "Sunting Dana Donatur"
+
+#: 
+msgid "Are you sure you want to delete this fund?"
+msgstr "Apakah anda yakin untuk menghapus dana ini? "
+
+#: 
+msgid "Warning: Field changes will be lost if you do not 'Save Changes' before using a delete or 'add new' button!"
+msgstr "Peringatan: Perubahan akan hilang apabila anda tidak \"mengubah perubahan\" sebelum menggunakan tombol hapus atau tombol \"tambahkan\""
+
+#: 
+msgid "Invalid fields or selections. Changes not saved! Please correct and try again!"
+msgstr "Ekspresi ataupun pemilihan tidak valid. Perubahan tidak disimpan! Tolong perbaiki dan coba lagi!"
+
+#: 
+msgid "No funds have been added yet"
+msgstr "Belum ada dana yang ditambahkan."
+
+#: 
+msgid "Active"
+msgstr "Aktif"
+
+#: 
+msgid "Save Changes"
+msgstr "Simpan perubahan"
+
+#: 
+msgid "Add New Fund"
+msgstr "Tambahkan dana baru"
+
+#: 
+msgid "Church Event Editor"
+msgstr "Sunting Daftar kegiatan gereja"
+
+#: 
+msgid "Edit Event Types"
+msgstr "Ubah jenis kegiatan-kegiatan"
+
+#: 
+msgid "Edit Event Type"
+msgstr "Ubah jenis kegiatan"
+
+#: 
+msgid "Event Type"
+msgstr "Jenis kegiatan"
+
+#: 
+msgid "Save Name"
+msgstr "Simpan nama"
+
+#: 
+msgid "Recurrence Pattern"
+msgstr "Pola pengulangan"
+
+#: 
+msgid "Attendance Counts"
+msgstr "Jumlah Jemaat yang hadir"
+
+#: 
+msgid "Add counter"
+msgstr "Tambahkan Aset"
+
+#: 
+msgid "Return to Event Types"
+msgstr "Kembali kepada jenis kegiatan"
+
+#: 
+msgid "Family"
+msgstr "Keluarga"
+
+#: 
+msgid "Type"
+msgstr "Tipe"
+
+#. Merriam-Webster menerjemahkan Fiscal Year sebagai "an accounting period of 12 months." Mungkin hal ini berhubungan dengan kebiasaan di Amerika Serikat. Apabila ada rekan yang mengetahui lebih baik dalam penerjemahan kata ini, saya akan sangat berterima kasih.
+#: 
+msgid "Fiscal Year"
+msgstr "12 Bulan"
+
+#: 
+msgid "Amount"
+msgstr "Jumlah"
+
+#: 
+msgid "Fund"
+msgstr "Dana"
+
+#: 
+msgid "Bank"
+msgstr "Bank"
+
+#: 
+msgid "Month"
+msgstr "Bulan"
+
+#: 
+msgid "Year"
+msgstr "tahun"
+
+#: 
+msgid "Edit"
+msgstr "sunting"
+
+#: 
+msgid "Message"
+msgstr "pesan"
+
+#: 
+msgid "Event Attendees"
+msgstr "Tamu yang hadir"
+
+#: 
+msgid "Event Nonattendees"
+msgstr "Tamu yang tidak hadir"
+
+#: 
+msgid "Event Guests"
+msgstr "Tamu undangan"
+
+#: 
+msgid "Back to Report Menu"
+msgstr "Kembali kepada menu laporan"
+
+#: 
+msgid "There "
+msgstr "Di sana"
+
+#: 
+msgid "Event Title"
+msgstr "Judul kegiatan"
+
+#: 
+msgid "Event Date"
+msgstr "Tanggal kegiatan"
+
+#: 
+msgid "Generate Report"
+msgstr "Munculkan Pelaporan"
+
+#: 
+msgid "Attending Members"
+msgstr "Jumlah anggota yang hadir"
+
+#: 
+msgid "Non-Attending Members"
+msgstr "Jumlah anggota yang tidak hadir"
+
+#: 
+msgid "Guests"
+msgstr "Tamu-tamu"
+
+#: 
+msgid "There are no events in this category"
+msgstr "Tidak ada kegiatan-kegiatan pada kategori ini"
+
+#: 
+msgid "There are no Records"
+msgstr "Tidak ada pencatatan"
+
+#: 
+msgid "Create Event"
+msgstr "Ciptakan kegiatan"
+
+#: 
+msgid "Create a new Event"
+msgstr "Ciptakan kegiatan yang baru"
+
+#: 
+msgid "Editing Event ID: "
+msgstr "Sunting ID dari kegiatan"
+
+#: 
+msgid " errors. Please see below"
+msgstr "Error. Lihat ke bawah"
+
+#: 
+msgid "Items with a "
+msgstr "Barang dengan suatu"
+
+#: 
+msgid " are required"
+msgstr "diperlukan"
+
+#: 
+msgid "Select your event type"
+msgstr "Pilih tipe dari kegiatan"
+
+#: 
+msgid "You must pick an event type."
+msgstr "Anda harus memilih sebuat tipe kegiatan"
+
+#: 
+msgid "Event Desc"
+msgstr "Deskripsi kegiatan"
+
+#: 
+msgid "No Attendance counts recorded"
+msgstr "Data kehadiran tidak direkam"
+
+#: 
+msgid "Attendance Notes: "
+msgstr "Catatan mengenai kehadiran"
+
+#: 
+msgid "Event Sermon"
+msgstr "Kothbah kegiatan"
+
+#: 
+msgid "Event Status"
+msgstr "Status kegiatan"
+
+#: 
+msgid "Return to Events"
+msgstr "Kembali kepada kegiatan-kegiatan"
+
+#: 
+msgid "EVENT TYPE NAME"
+msgstr "Nama tipe kegiatan"
+
+#: 
+msgid "Sundays"
+msgstr "Hari minggu "
+
+#: 
+msgid "Mondays"
+msgstr "Senin"
+
+#: 
+msgid "Tuesdays"
+msgstr "Selasa"
+
+#: 
+msgid "Wednesdays"
+msgstr "Rabu "
+
+#: 
+msgid "Thursdays"
+msgstr "Kamis"
+
+#: 
+msgid "Fridays"
+msgstr "Jumat"
+
+#: 
+msgid "Saturdays"
+msgstr "Sabtu"
+
+#: 
+msgid "DEFAULT START TIME"
+msgstr "Waktu mulai standar"
+
+#: 
+msgid "ATTENDANCE COUNTS"
+msgstr "Jumlah kehadiran"
+
+#: 
+msgid "Optional"
+msgstr "Opsional"
+
+#: 
+msgid "Enter a list of the attendance counts you want to include with this event."
+msgstr "Masukan sebuah daftar kehadiran yang anda ingin sertakan pada kegiatan ini"
+
+#: 
+msgid "Separate each count_name with a comma. e.g. Members, Visitors, Campus, Children"
+msgstr "Pisahkan setiap \"count_name\" dengan tanda \",\" contohnya: Anggota, pengunjung, Kampus, anak-anak"
+
+#: 
+msgid "Every event type includes a Total count, you do not need to include it."
+msgstr "Setiap tipe kegiatan sudah memiliki perhitungan total, anda tidak perlu menyertakannya kembali"
+
+#: 
+msgid "Add Event Type"
+msgstr "Tambahkan tipe kegiatan"
+
+#. Saya kurang mengerti bagaimana menjelaskan field di dalam bahasa Indonesia. Kamus Webster menjelaskan demikian: "a particular area (as of a record in a database) in which the same type of information is regularly recorded."
+#: 
+msgid "Custom Family Fields Editor"
+msgstr "Sunting Field Keluarga secara khusus"
+
+#: 
+msgid "Default Option"
+msgstr "Opsi standar"
+
+#: 
+msgid "Warning:  By deleting this field, you will irrevokably lose all family data assigned for this field!"
+msgstr "Perhatian: Dengan menghapus field ini, anda akan menghilangkan segala informasi mengenai keluarga yang sudah ditulis pada field ini"
+
+#: 
+msgid "Warning: Arrow and delete buttons take effect immediately.  Field name changes will be lost if you do not 'Save Changes' before using an up, down, delete or 'add new' button!"
+msgstr "Perhatian: Tombol tanda panah dah hapus langsung memberikan dampak. Nama Field akan segera hilang apabila anda tidak \"simpan perubahan\" sebelum menggunakan tombol atas, bawah, hapus atau \"tambah baru!\""
+
+#: 
+msgid "No custom Family fields have been added yet"
+msgstr "Tidak ada field keluarga khusus yang telah ditambahkan"
+
+#: 
+msgid "Special option"
+msgstr "Opsi khusus"
+
+#: 
+msgid "Security Option"
+msgstr "Pilihan Keamanan"
+
+#: 
+msgid "Family-View Side"
+msgstr "Keluarga-Lihat dari Samping"
+
+#: 
+msgid "You must select a group."
+msgstr "Kamu harus memilih sebuah grup"
+
+#: 
+msgid "Edit List Options"
+msgstr "Sunting data pilihan"
+
+#: 
+msgid "Left"
+msgstr "kiri"
+
+#: 
+msgid "Right"
+msgstr "kanan"
+
+#: 
+msgid "Help on types.."
+msgstr "Bantuan mengenai tipe"
+
+#: 
+msgid "You must enter a name"
+msgstr "Anda harus memasukan sebuah nama"
+
+#: 
+msgid "That field name already exists."
+msgstr "Nama field itu sudah digunakan"
+
+#: 
+msgid "Side"
+msgstr "samping"
+
+#: 
+msgid "Add New Field"
+msgstr "Tambahkan field baru"
+
+#: 
+msgid "Family Editor"
+msgstr "Sunting Keluarga"
+
+#: 
+msgid "First name must be entered"
+msgstr "Nama pertama harus dimasukkan"
+
+#: 
+msgid "Invalid Year: allowable values are 1901 to 2155"
+msgstr "Data Tahun yang tidak valid: Data yang diperbolehkan diantara 1901 sampai 2155"
+
+#: 
+msgid "Invalid Birth Date."
+msgstr "Tanggal ulang tahun tidak valid"
+
+#: 
+msgid "Not a valid Wedding Date"
+msgstr "Tanggal pernikahan tidak valid"
+
+#: 
+msgid "Email is Not Valid"
+msgstr "Alamat surat elektronik tidak valid"
+
+#: 
+msgid "Family Info"
+msgstr "Informasi keluarga"
+
+#: 
+msgid "None US/CND State"
+msgstr "Bukan negara US/CND"
+
+#: 
+msgid "Contact Info"
+msgstr "Data Kontak"
+
+#: 
+msgid "Other Info"
+msgstr "Info lainnya"
+
+#: 
+msgid "Envelope Info"
+msgstr "Keterangan Amplop"
+
+#: 
+msgid "Family Members"
+msgstr "Anggota Keluarga"
+
+#: 
+msgid "First"
+msgstr "Nama depan"
+
+#: 
+msgid "Middle"
+msgstr "nama tengah"
+
+#: 
+msgid "Last"
+msgstr "nama akhir"
+
+#: 
+msgid "Role"
+msgstr "Peran"
+
+#: 
+msgid "Day"
+msgstr "hari"
+
+#: 
+msgid "Select Gender"
+msgstr "pilih jenis kelamin"
+
+#: 
+msgid "Select Role"
+msgstr "pilih peran"
+
+#: 
+msgid "Unknown"
+msgstr "tidak diketahui"
+
+#: 
+msgid "January"
+msgstr "Januari"
+
+#: 
+msgid "February"
+msgstr "Febuari"
+
+#: 
+msgid "March"
+msgstr "Maret"
+
+#: 
+msgid "April"
+msgstr "April"
+
+#: 
+msgid "May"
+msgstr "Mei"
+
+#: 
+msgid "June"
+msgstr "Juni"
+
+#: 
+msgid "July"
+msgstr "Juli"
+
+#: 
+msgid "August"
+msgstr "Agustus"
+
+#: 
+msgid "September"
+msgstr "September"
+
+#: 
+msgid "October"
+msgstr "Oktober"
+
+#: 
+msgid "November"
+msgstr "November"
+
+#: 
+msgid "December"
+msgstr "Desember"
+
+#: 
+msgid "Family List"
+msgstr "Daftar Keluarga"
+
+#: 
+msgid "Add Family"
+msgstr "Tambah keluarga"
+
+#: 
+msgid "Created"
+msgstr "Diciptakan"
+
+#: 
+msgid "Edited"
+msgstr "Disunting"
+
+#: 
+msgid " of church<br>"
+msgstr "dari gereja <br>"
+
+#: 
+msgid "Latitude/Longitude"
+msgstr "lintang/bujur"
+
+#: 
+msgid "Envelope Number"
+msgstr "No Surat"
+
+#: 
+msgid "Verify Info"
+msgstr "Verifikasi info"
+
+#: 
+msgid "Add New Member"
+msgstr "Tambahkan anggota baru"
+
+#: 
+msgid "Previous Family"
+msgstr "Keluarga sebelumnya"
+
+#: 
+msgid "Next Family"
+msgstr "Keluarga sesudahnya"
+
+#: 
+msgid "Delete this Family"
+msgstr "Hapus keluarga ini"
+
+#: 
+msgid "Upload Photo"
+msgstr "Unggah foto"
+
+#: 
+msgid "Delete Photo"
+msgstr "Hapus foto"
+
+#: 
+msgid "Add a Note"
+msgstr "Tambahkan Catatan"
+
+#: 
+msgid "Add All Family Members to Cart"
+msgstr "Tambahkan seluruh anggota keluarga"
+
+#: 
+msgid "Timeline"
+msgstr "tenggat waktu"
+
+#: 
+msgid "Pledges and Payments"
+msgstr "Permintaan dan pembayaran"
+
+#: 
+msgid "No property assignments."
+msgstr "Tidak ada tugas"
+
+#: 
+msgid "Value"
+msgstr "nilai"
+
+#: 
+msgid "Edit Value"
+msgstr "sunting nilai"
+
+#: 
+msgid "Assign a New Property"
+msgstr "Berikan properti baru"
+
+#: 
+msgid "Assign"
+msgstr "Berikan"
+
+#: 
+msgid "Date Updated"
+msgstr "Tanggal diperbaharui"
+
+#: 
+msgid "Updated By"
+msgstr "Diperbaharui oleh"
+
+#: 
+msgid "Show Pledges"
+msgstr "Tunjukan Janji"
+
+#: 
+msgid "Show Payments"
+msgstr "Tunjukan Pembayaran"
+
+#: 
+msgid "Since"
+msgstr "Sejak"
+
+#: 
+msgid "Update"
+msgstr "Perbaharui"
+
+#: 
+msgid "Pledge or Payment"
+msgstr "Janji atau pembayaran"
+
+#: 
+msgid "Date"
+msgstr "Tanggal"
+
+#: 
+msgid "NonDeductible"
+msgstr "Tidak dapat dideduksi"
+
+#: 
+msgid "Schedule"
+msgstr "Jadwal"
+
+#: 
+msgid "Method"
+msgstr "Cara"
+
+#: 
+msgid "Comment"
+msgstr "Komentar"
+
+#: 
+msgid "Add a new pledge"
+msgstr "Tambahkan janji baru"
+
+#: 
+msgid "Add a new payment"
+msgstr "Tambahkan pembayaran baru"
+
+#: 
+msgid "Close"
+msgstr "Tutup"
+
+#: 
+msgid "Confirm Delete"
+msgstr "Konfirmasi penghapusan"
+
+#: 
+msgid "You are about to delete the profile photo, this procedure is irreversible."
+msgstr "Anda akan menghapus foto profil, langkah ini tidak dapat diulangi"
+
+#: 
+msgid "Do you want to proceed?"
+msgstr "Apakah anda mau melanjutkan?"
+
+#: 
+#, fuzzy
+msgid "You are about to email copy of the family information to the following emails"
+msgstr "anda akan mengkopi informasi keluarga dalam lewat surel berikut"
+
+#: 
+msgid "Financial Reports"
+msgstr "Laporan keuangan"
+
+#: 
+msgid "No records were returned from the previous report."
+msgstr "tidak ada catatan dari laporan sebelumnya"
+
+#: 
+msgid "Report Type:"
+msgstr "Tipe laporan"
+
+#: 
+msgid "Select Report Type"
+msgstr "Pilih tipe laporan"
+
+#: 
+msgid "Pledge Summary"
+msgstr "Kesimpulan Janji"
+
+#: 
+msgid "Pledge Family Summary"
+msgstr "Kesimpulan janji keluarga"
+
+#: 
+msgid "Pledge Reminders"
+msgstr "Pengingat janji"
+
+#: 
+msgid "Voting Members"
+msgstr "Jumlah Anggota Voting"
+
+#: 
+msgid "Giving Report (Tax Statements)"
+msgstr "Memberikan pelaporan (laporan pajak)"
+
+#: 
+msgid "Zero Givers"
+msgstr "Tidak ada yang memberi"
+
+#: 
+msgid "Individual Deposit Report"
+msgstr "Laporan simpanan individu"
+
+#: 
+msgid "Advanced Deposit Report"
+msgstr "Laporan tabungan canggih"
+
+#: 
+msgid "Next"
+msgstr "berikutnya"
+
+#: 
+msgid "Filter by Family"
+msgstr "sortir berdasarkan keluarga"
+
+#: 
+msgid "Report Start Date:"
+msgstr "Laporan dimulai pda tanggal"
+
+#: 
+msgid "Report End Date:"
+msgstr "Laporan diakhiri pada tanggal"
+
+#: 
+msgid "Apply Report Dates To:"
+msgstr "Setujui tanggal pelaporan pada tanggal"
+
+#: 
+msgid "Deposit Date (Default)"
+msgstr "Tanggal penyimpanan (standar)"
+
+#: 
+msgid "Payment Date"
+msgstr "Tanggal pembayaran"
+
+#: 
+msgid "Filter by Deposit:"
+msgstr "Sortir berdasarkan simpanan"
+
+#: 
+msgid "If deposit is selected, date criteria will be ignored."
+msgstr "Jika simpanan dipilih, kriteria tanggal akan diacuhkan"
+
+#: 
+msgid "All deposits within date range"
+msgstr "Semua simpanan di dalam range data"
+
+#: 
+msgid "Filter by Payment Type:"
+msgstr "Sortir dengan tipe pembayaran"
+
+#: 
+msgid "All Methods"
+msgstr "Semua metode "
+
+#: 
+msgid "Check"
+msgstr "Periksa"
+
+#: 
+msgid "Cash"
+msgstr "Uang"
+
+#: 
+msgid "Bank Draft"
+msgstr "Draf Bank"
+
+#: 
+msgid "eGive"
+msgstr "eGive"
+
+#: 
+msgid "Minimun Total Amount:"
+msgstr "Jumlah minimum"
+
+#: 
+msgid "0 - No Minimum"
+msgstr "0-tidak ada minimum"
+
+#: 
+msgid "Other Settings"
+msgstr "Pengaturan lain"
+
+#: 
+msgid "Include:"
+msgstr "Termasuk"
+
+#: 
+msgid "Only Payments with Pledges"
+msgstr "Hanya pembayaran dengan persembahan"
+
+#: 
+msgid "All Payments"
+msgstr "Seluruh pembayaran"
+
+#: 
+msgid "Generate:"
+msgstr "Hasilkan"
+
+#: 
+msgid "Only Families with unpaid pledges"
+msgstr "Hanya keluarga yang belum membayar persembahan"
+
+#: 
+msgid "All Families"
+msgstr "Semua Keluarga"
+
+#: 
+msgid "Report Heading:"
+msgstr "Judul Laporan"
+
+#: 
+msgid "Graphic"
+msgstr "Grafik"
+
+#: 
+msgid "Church Address"
+msgstr "Alamat gereja"
+
+#: 
+msgid "Blank"
+msgstr "Kosong"
+
+#: 
+msgid "Remittance Slip:"
+msgstr "Slip Pembayaran"
+
+#: 
+msgid "Sort Data by:"
+msgstr "Atur data dengan"
+
+#: 
+msgid "Deposit"
+msgstr "Simpanan"
+
+#: 
+msgid "All Data"
+msgstr "Seluruh data"
+
+#: 
+msgid "Moderate Detail"
+msgstr "Detail "
+
+#: 
+msgid "Summary Data"
+msgstr "Data Ringkasan"
+
+#: 
+msgid "CSV"
+msgstr "CSV"
+
+#: 
+msgid "Back"
+msgstr "Kembali"
+
+#: 
+msgid "Create Report"
+msgstr "Buat laporan"
+
+#: 
+msgid "Deposit Listing"
+msgstr "Daftar deposit"
+
+#: 
+msgid "Add New Deposit"
+msgstr "Tambahkan Deposit Baru"
+
+#: 
+msgid "Deposits: "
+msgstr "Simpanan:␣"
+
+#: 
+msgid "Delete Selected Rows"
+msgstr "Hapus Baris yang Dipilih"
+
+#: 
+msgid "Date Start"
+msgstr "Tanggal mulai"
+
+#: 
+msgid "Apply Filters"
+msgstr "Terapkan Filter"
+
+#: 
+msgid "Date End"
+msgstr "Tanggal berakhir"
+
+#: 
+msgid "Clear Filters"
+msgstr "Hapus Filter"
+
+#: 
+msgid "Previous Page"
+msgstr "Halaman sebelumnya"
+
+#: 
+msgid "Next Page"
+msgstr "Halaman berikutnya"
+
+#: 
+msgid "Display:"
+msgstr "Tampilan:"
+
+#: 
+msgid "Number"
+msgstr "Angka"
+
+#: 
+msgid "Create New Fund Raiser"
+msgstr "Buat penggalangan dana baru"
+
+#: 
+msgid "Add Donated Item"
+msgstr "Tambahkan Item yang Disumbangkan"
+
+#: 
+msgid "Neighbor Families"
+msgstr "Keluarga Tetangga"
+
+#: 
+msgid "Families"
+msgstr "Keluarga"
+
+#: 
+msgid "See all Families"
+msgstr "Lihat semua Keluarga"
+
+#: 
+msgid "View All Persons"
+msgstr "Lihat semua Orang"
+
+#: 
+msgid "family"
+msgstr "keluarga"
+
+#: 
+msgid "Part"
+msgstr "Bagian"
+
+#: 
+msgid "New Person Added"
+msgstr "Orang Baru Ditambahkan"
+
+#: 
+msgid "New Family Added"
+msgstr "Keluarga Baru Ditambahkan"
+
+#: 
+msgid "People Dashboard"
+msgstr "Dasbor Orang"
+
+#: 
+msgid "Printable directory of all people, grouped by family where assigned"
+msgstr "Direktori tercetak dari semua orang, dikelompokkan berdasarkan keluarga yang ditetapkan"
+
+#: 
+msgid "of People"
+msgstr "Orang"
+
+#: 
+msgid "System Upgrade"
+msgstr "Sistem Upgrade"
+
+#: 
+msgid "Upgrade Required"
+msgstr "Upgrade Diperlukan"
+
+#: 
+msgid "Upgrade database"
+msgstr "Upgrade database"
+
+#: 
+msgid "Help & Support"
+msgstr "Bantuan & Support"
+
+#: 
+msgid "Help & Manual"
+msgstr "Bantuan & Manual"
+
+#: 
+msgid "Lock"
+msgstr "Kunci"
+
+#: 
+msgid "success"
+msgstr "Sukses"
+
+#: 
+msgid "Add Menu"
+msgstr "Tambah Daftar"
+
+#: 
+msgid "Menu Name"
+msgstr "Nama Daftar"
+
+#: 
+msgid "Max 20 char"
+msgstr "Maks. 20 karakter"
+
+#: 
+msgid "Link Address"
+msgstr "Alamat tautan"
+
+#: 
+msgid "Start with http:// or https://"
+msgstr "Dimulai dengan http:// atau https://"
+
+#: 
+msgid "Menus"
+msgstr "Daftar"
+
+#: 
+msgid "is disabled"
+msgstr "dinonaktifkan"
+
+#: 
+msgid "System Information"
+msgstr "Sistem informasi"
+
+#: 
+msgid "Software Version"
+msgstr "Versi perangkat lunak"
+
+#: 
+msgid "Valid Mail Server Settings"
+msgstr "Pengaturan Server Email yang Valid"
+
+#: 
+msgid "Database"
+msgstr "Basis data"
+
+#: 
+msgid "Database Version"
+msgstr "Versi basis data"
+
+#: 
+msgid "Application Prerequisites"
+msgstr "Prasyarat Aplikasi"
+
+#: 
+msgid "WebServer Modules"
+msgstr "Modul WebServer"
+
+#: 
+msgid "Invalid country name supplied"
+msgstr "Nama negara yang tidak valid diberikan"
+
+#: 
+msgid "Holidays"
+msgstr "Liburan"
+
