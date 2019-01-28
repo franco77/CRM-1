@@ -148,6 +148,22 @@
     </div>
 <?php } ?>
 
+<?php if ($this->login_user->user_type === "staff") { ?>
+    <div class="form-group">
+        <label for="commodities" class="<?php echo $label_column; ?>"><?php echo lang('client_commodities'); ?></label>
+        <div class="<?php echo $field_column; ?>">
+            <?php
+            echo form_input(array(
+                "id" => "commodities",
+                "name" => "commodities",
+                "value" => $model_info->commodities,
+                "class" => "form-control",
+                "placeholder" => lang('commodities')
+            ));
+            ?>
+        </div>
+    </div>
+<?php } ?>
 
 <?php
 if ($this->login_user->is_admin && get_setting("module_invoice")) { ?>

@@ -103,7 +103,6 @@ class Clients extends MY_Controller {
             $data["group_ids"] = $this->input->post('group_ids') ? $this->input->post('group_ids') : "";
         }
 
-
         if (!$client_id) {
             $data["created_date"] = get_current_utc_time();
         }
@@ -178,8 +177,6 @@ class Clients extends MY_Controller {
     /* prepare a row of client list table */
 
     private function _make_row($data, $custom_fields) {
-
-
         $image_url = get_avatar($data->contact_avatar);
         $contact = "<span class='avatar avatar-xs mr10'><img src='$image_url' alt='...'></span> $data->primary_contact";
         $primary_contact = get_client_contact_profile_link($data->primary_contact_id, $contact);
