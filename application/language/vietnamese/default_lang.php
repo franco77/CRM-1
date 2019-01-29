@@ -39,7 +39,7 @@ $lang["created"] = "Đã tạo";
 $lang["created_by"] = "Đã tạo bởi";
 $lang["updated"] = "Đã cập nhập";
 $lang["deleted"] = "Đã xóa";
-$lang["currency"] = "Tiền tệ";
+$lang["currency"] = "Đơn vị tiền tệ";
 $lang["new"] = "Mới";
 $lang["open"] = "Mở";
 $lang["closed"] = "Đã đóng";
@@ -320,7 +320,7 @@ $lang["delete_contact"] = "Xóa liên hệ";
 $lang["contact"] = "Liên hệ";
 $lang["contacts"] = "Liên hệ";
 $lang["users"] = "Người dùng";
-$lang["primary_contact"] = "Người đại diện tại cảng";
+$lang["primary_contact"] = "Người đại diện";
 $lang["disable_login"] = "Chặn đăng nhập";
 $lang["disable_login_help_message"] = "Người dùng sẽ không thể đăng nhập vào hệ thống này!";
 $lang["email_login_details"] = "Chi tiết đăng nhập email cho người dùng này";
@@ -352,10 +352,10 @@ $lang["add_member"] = "Thêm thành viên";
 $lang["delete_member"] = "Xóa thành viên";
 $lang["start_timer"] = "Bắt đầu thời gian";
 $lang["stop_timer"] = "Kết thúc thời gian";
-$lang["project_timeline"] = "Mốc thời gian dự án";
+$lang["project_timeline"] = "Bảng tin cập nhập công việc";
 $lang["open_projects"] = "Dự án đang mở";
 $lang["projects_completed"] = "Dự án kết thúc";
-$lang["progress"] = "Qúa trình";
+$lang["progress"] = "Quá trình";
 $lang["activity"] = "Hoạt động";
 $lang["started_at"] = "Bắt đầu từ";
 $lang["customer_feedback"] = "Phản hồi khách hàng";
@@ -472,7 +472,7 @@ $lang["client_replied"] = "Khách hàng đã trả lời";
 $lang["change_status"] = "Thay đổi trạng thái";
 $lang["last_activity"] = "Hoạt động cuối cùng";
 $lang["open_tickets"] = "Phản hồi khách hàng hiện có";
-$lang["Ticket_status"] = "Trạng thái phản hồi khách hàng";
+$lang["ticket_status"] = "Thống kê phản hồi khách hàng";
 
 /* ticket types */
 $lang["add_ticket_type"] = "Thêm loại phản hồi";
@@ -509,17 +509,17 @@ $lang["overdue"] = "Quá hạn";
 $lang["invoice_items"] = "Mục hóa đơn";
 $lang["edit_invoice"] = "Chỉnh sửa hóa đơn";
 $lang["delete_invoice"] = "Xóa hóa đơn";
-$lang["item"] = "Tài sản";
-$lang["add_item"] = "Thêm tài sản";
-$lang["create_new_item"] = "Tạo tài sản mới";
-$lang["select_or_create_new_item"] = "Chọn từ danh sách hoặc tạo tài sản mới...";
+$lang["item"] = "Dịch vụ";
+$lang["add_item"] = "Thêm dịch vụ";
+$lang["create_new_item"] = "Tạo dịch vụ mới";
+$lang["select_or_create_new_item"] = "Chọn từ danh sách hoặc tạo dịch vụ mới...";
 $lang["quantity"] = "Số lượng";
 $lang["rate"] = "Tỉ lệ";
 $lang["total_of_all_pages"] = "Tổng cộng tất cả các trang";
 $lang["sub_total"] = "Tổng số phụ";
 $lang["total"] = "Tất cả";
 $lang["last_email_sent"] = "Email cuối cùng được gửi";
-$lang["item_library"] = "Thư viện tài sản";
+$lang["item_library"] = "Thư viện dịch vụ";
 $lang["add_payment"] = "Thêm thanh toán";
 $lang["never"] = "Không bao giờ";
 $lang["email_invoice_to_client"] = "Hóa đơn Email cho khách hàng";
@@ -530,7 +530,7 @@ $lang["balance_due"] = "Số dư nợ";
 $lang["paid"] = "Đã thanh toán";
 $lang["amount"] = "Số lượng";
 $lang["invoice_payment_list"] = "Danh sách thanh toán hóa đơn";
-$lang["invoice_statistics"] = "Thống kế hóa đơn";
+$lang["invoice_statistics"] = "Thống kê hóa đơn";
 $lang["payment"] = "Thanh toán";
 
 /* email templates */
@@ -573,7 +573,7 @@ $lang["can_manage_announcements"] = "Có thể quản lý thông báo không?";
 /* timeline */
 $lang["post_placeholder_text"] = "Chia sẻ ý tưởng hoặc tài liệu...";
 $lang["post"] = "Bài đăng";
-$lang["timeline"] = "Mốc thời gian";
+$lang["timeline"] = "Mạng xã hội";
 $lang["load_more"] = "Hiện thêm";
 $lang["upload_file"] = "Tải tập tin";
 $lang["upload"] = "Tải lên";
@@ -925,7 +925,7 @@ $lang["client_can_view_gantt"] = "Khách hàng có thể xem gantt?";
 $lang["client_can_view_overview"] = "Khách hàng có thể xem tổng quan dự án không?";
 $lang["client_can_view_milestones"] = "Khách hàng có thể xem các mốc không?";
 
-$lang["items"] = "Tài sản";
+$lang["items"] = "Dịch vụ";
 $lang["edit_item"] = "Vật phẩm của bạn";
 $lang["item_edit_instruction"] = "Lưu ý: Các thay đổi sẽ không bị ảnh hưởng trên các hóa đơn hoặc ước tính hiện có.";
 
@@ -1103,3 +1103,14 @@ $lang["event_status"] = "Tình trạng sự kiện";
 $lang["specific_client_contacts"] = "Liên hệ khách hàng cụ thể";
 $lang["choose_client_contacts"] = "Chọn liên hệ khách hàng";
 $lang["invitations_sent"] = "Lời mời đã được gửi đi.";
+
+/* Version 3.0 */
+$lang["client_sectors"] = "Khu vực";
+$lang["add_client_sectors"] = "Thêm nhóm hàng";
+$lang["edit_client_sectors"] = "Chỉnh sửa nhóm hàng";
+$lang["delete_client_sectors"] = "Xóa nhóm hàng";
+
+$lang["client_prices"] = "Giá dịch vụ";
+$lang["add_client_price"] = "Thêm giá";
+$lang["edit_client_price"] = "Chỉnh sửa giá";
+$lang["delete_client_price"] = "Xóa giá";

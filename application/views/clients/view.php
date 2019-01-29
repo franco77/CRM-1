@@ -21,8 +21,9 @@
     <ul data-toggle="ajax-tab" class="nav nav-tabs" role="tablist">
         <li><a  role="presentation" href="<?php echo_uri("clients/contacts/" . $client_info->id); ?>" data-target="#client-contacts"> <?php echo lang('contacts'); ?></a></li>
         <li><a  role="presentation" href="<?php echo_uri("clients/company_info_tab/" . $client_info->id); ?>" data-target="#client-info"> <?php echo lang('client_info'); ?></a></li>
+        <li><a  role="presentation" href="<?php echo_uri("clients/prices/" . $client_info->id); ?>" data-target="#client-prices"> <?php echo lang('client_prices'); ?></a></li>
         <li><a  role="presentation" href="<?php echo_uri("clients/projects/" . $client_info->id); ?>" data-target="#client-projects"><?php echo lang('projects'); ?></a></li>
-      
+
         <?php if ($show_invoice_info) { ?>
             <li><a  role="presentation" href="<?php echo_uri("clients/invoices/" . $client_info->id); ?>" data-target="#client-invoices"> <?php echo lang('invoices'); ?></a></li>
             <li><a  role="presentation" href="<?php echo_uri("clients/payments/" . $client_info->id); ?>" data-target="#client-payments"> <?php echo lang('payments'); ?></a></li>
@@ -56,6 +57,7 @@
         <div role="tabpanel" class="tab-pane fade" id="client-estimate-requests"></div>
         <div role="tabpanel" class="tab-pane fade" id="client-tickets"></div>
         <div role="tabpanel" class="tab-pane fade" id="client-notes"></div>
+        <div role="tabpanel" class="tab-pane fade" id="client-prices"></div>
         <div role="tabpanel" class="tab-pane" id="client-events" style="min-height: 300px"></div>
     </div>
 </div>

@@ -89,6 +89,20 @@
     </div>
 </div>
 <div class="form-group">
+    <label for="groups" class="<?php echo $label_column; ?>"><?php echo lang('client_sectors'); ?></label>
+    <div class="<?php echo $field_column; ?>">
+        <?php
+        echo form_input(array(
+            "id" => "sector",
+            "name" => "sector",
+            "value" => $model_info->sector,
+            "class" => "form-control",
+            "placeholder" => lang('client_sectors')
+        ));
+        ?>
+    </div>
+</div>
+<div class="form-group">
     <label for="phone" class="<?php echo $label_column; ?>"><?php echo lang('phone'); ?></label>
     <div class="<?php echo $field_column; ?>">
         <?php
@@ -130,6 +144,20 @@
         ?>
     </div>
 </div>
+<div class="form-group">
+    <label for="commodities" class="<?php echo $label_column; ?>"><?php echo lang('client_commodities'); ?></label>
+    <div class="<?php echo $field_column; ?>">
+        <?php
+        echo form_input(array(
+            "id" => "commodities",
+            "name" => "commodities",
+            "value" => $model_info->commodities,
+            "class" => "form-control",
+            "placeholder" => lang('commodities')
+        ));
+        ?>
+    </div>
+</div>
 
 <?php if ($this->login_user->user_type === "staff") { ?>
     <div class="form-group">
@@ -142,23 +170,6 @@
                 "value" => $model_info->group_ids,
                 "class" => "form-control",
                 "placeholder" => lang('client_groups')
-            ));
-            ?>
-        </div>
-    </div>
-<?php } ?>
-
-<?php if ($this->login_user->user_type === "staff") { ?>
-    <div class="form-group">
-        <label for="commodities" class="<?php echo $label_column; ?>"><?php echo lang('client_commodities'); ?></label>
-        <div class="<?php echo $field_column; ?>">
-            <?php
-            echo form_input(array(
-                "id" => "commodities",
-                "name" => "commodities",
-                "value" => $model_info->commodities,
-                "class" => "form-control",
-                "placeholder" => lang('commodities')
             ));
             ?>
         </div>
@@ -221,6 +232,13 @@ if ($this->login_user->is_admin && get_setting("module_invoice")) { ?>
             if ($('#currency').length) {
                 $('#currency').select2({data: <?php echo json_encode($currency_dropdown); ?>});
             }
+<?php } ?>
+
+<?php if (isset($sector_dropdown)) { ?>
+            $("#sector").select2({
+                multiple: true,
+                data: <?php echo json_encode($sector_dropdown); ?>
+            });
 <?php } ?>
 
 <?php if (isset($groups_dropdown)) { ?>

@@ -17,6 +17,12 @@
                         <?php echo modal_anchor(get_uri("client_groups/modal_form"), "<i class='fa fa-plus-circle'></i> " . lang('add_client_group'), array("class" => "btn btn-default", "title" => lang('add_client_group'))); ?>
                     </div>
                 </div>
+                <li><a role="presentation" href="<?php echo_uri("client_sectors/index"); ?>" data-target="#client-sectors-tab"><?php echo lang('client_sectors'); ?></a></li>
+                <div class="tab-title clearfix no-border">
+                    <div class="title-button-group">
+                        <?php echo modal_anchor(get_uri("client_sectors/modal_form"), "<i class='fa fa-plus-circle'></i> " . lang('add_client_sectors'), array("class" => "btn btn-default", "title" => lang('add_client_sectors'))); ?>
+                    </div>
+                </div>
             </ul>
 
             <div class="tab-content">

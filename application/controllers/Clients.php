@@ -22,6 +22,7 @@ class Clients extends MY_Controller {
         $view_data["custom_field_headers"] = $this->Custom_fields_model->get_custom_field_headers_for_table("clients", $this->login_user->is_admin, $this->login_user->user_type);
 
         $view_data['groups_dropdown'] = json_encode($this->_get_groups_dropdown_select2_data(true));
+        $view_data['sector_dropdown'] = json_encode($this->_get_sector_dropdown_select2_data(true));
 
         $this->template->rander("clients/index", $view_data);
     }
@@ -32,9 +33,7 @@ class Clients extends MY_Controller {
         $this->access_only_allowed_members();
 
         $client_id = $this->input->post('id');
-        validate_submitted_data(array(
-            "id" => "numeric"
-        ));
+        validate_submitted_data(array("id" => "numeric"));
 
         $view_data['label_column'] = "col-md-3";
         $view_data['field_column'] = "col-md-9";
@@ -43,6 +42,8 @@ class Clients extends MY_Controller {
         $view_data['model_info'] = $this->Clients_model->get_one($client_id);
         $view_data["currency_dropdown"] = $this->_get_currency_dropdown_select2_data();
 
+        //prepare sectors dropdown list
+        $view_data['sector_dropdown'] = $this->_get_sector_dropdown_select2_data();
 
         //prepare groups dropdown list
         $view_data['groups_dropdown'] = $this->_get_groups_dropdown_select2_data();
@@ -65,6 +66,20 @@ class Clients extends MY_Controller {
             $groups_dropdown[] = array("id" => $group->id, "text" => $group->title);
         }
         return $groups_dropdown;
+    }
+
+    private function _get_sector_dropdown_select2_data($show_header = false) {
+        $client_sectors = $this->Client_sectors_model->get_all()->result();
+        $sector_dropdown = array();
+
+        if ($show_header) {
+            $sector_dropdown[] = array("id" => "", "text" => "- " . lang("client_sectors") . " -");
+        }
+
+        foreach ($client_sectors as $group) {
+            $sector_dropdown[] = array("id" => $group->id, "text" => $group->title);
+        }
+        return $sector_dropdown;
     }
 
     private function _get_currency_dropdown_select2_data() {
@@ -101,6 +116,7 @@ class Clients extends MY_Controller {
 
         if ($this->login_user->user_type === "staff") {
             $data["group_ids"] = $this->input->post('group_ids') ? $this->input->post('group_ids') : "";
+            $data["sector"] = $this->input->post('sector') ? $this->input->post('sector') : "";
         }
 
         if (!$client_id) {
@@ -152,7 +168,8 @@ class Clients extends MY_Controller {
         $custom_fields = $this->Custom_fields_model->get_available_fields_for_table("clients", $this->login_user->is_admin, $this->login_user->user_type);
         $options = array(
             "custom_fields" => $custom_fields,
-            "group_id" => $this->input->post("group_id")
+            "group_id" => $this->input->post("group_id"),
+            "sector" => $this->input->post("sector")
         );
         $list_data = $this->Clients_model->get_details($options)->result();
         $result = array();
@@ -689,6 +706,7 @@ class Clients extends MY_Controller {
 
             $view_data['model_info'] = $this->Clients_model->get_one($client_id);
             $view_data['groups_dropdown'] = $this->_get_groups_dropdown_select2_data();
+            $view_data['sector_dropdown'] = $this->_get_sector_dropdown_select2_data();
 
             $view_data["custom_fields"] = $this->Custom_fields_model->get_combined_details("clients", $client_id, $this->login_user->is_admin, $this->login_user->user_type)->result();
 
